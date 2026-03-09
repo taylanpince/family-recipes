@@ -16,4 +16,7 @@ nav:
   - Home: index.md
   - Recipes:
       - Overview: recipes/index.md
+      - Conventions: recipes/conventions.md
+      - Bulgur Pilav: recipes/bulgur-pilav.md
+      - White Beans with Beef: recipes/white-beans-with-beef.md
   - Cooking log: log.md

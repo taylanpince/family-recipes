@@ -1,7 +1,11 @@
 # Recipes
 
-Recipes will appear here as we migrate them out of Apple Notes.
+## Browse
 
-## Conventions
+- [Conventions + schema](conventions.md)
+- [Bulgur Pilav](bulgur-pilav.md)
+- [White Beans with Beef](white-beans-with-beef.md)
 
-Each recipe is a Markdown file with simple YAML frontmatter (title, tags, time, etc.).
+## Notes
+
+Recipes live as individual Markdown files under `docs/recipes/` and include a **slug** in frontmatter for a stable identifier.
