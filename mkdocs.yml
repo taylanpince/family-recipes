@@ -1,0 +1,19 @@
+site_name: Family Recipes
+site_url: https://taylanpince.github.io/family-recipes/
+repo_url: https://github.com/taylanpince/family-recipes
+repo_name: taylanpince/family-recipes
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - Recipes:
+      - Overview: recipes/index.md
+  - Cooking log: log.md
