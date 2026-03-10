@@ -16,6 +16,25 @@ def main() -> int:
     out_path = root / "docs" / "log.md"
 
     rows = []
+    # Map recipe_slug -> (title, filename) for nice links
+    recipe_map: dict[str, tuple[str, str]] = {}
+    recipes_dir = root / "docs" / "recipes"
+    for p in recipes_dir.glob("*.md"):
+        if p.name in {"index.md", "conventions.md", "_template.md"}:
+            continue
+        text = p.read_text(encoding="utf-8", errors="ignore")
+        slug = ""
+        title = ""
+        for line in text.splitlines():
+            if line.startswith("slug:"):
+                slug = line.split(":", 1)[1].strip().strip('"')
+            elif line.startswith("title:"):
+                title = line.split(":", 1)[1].strip().strip('"')
+            if slug and title:
+                break
+        if slug:
+            recipe_map[slug] = (title or slug, p.name)
+
     if csv_path.exists():
         with csv_path.open("r", encoding="utf-8", newline="") as f:
             r = csv.DictReader(f)
@@ -42,9 +61,12 @@ def main() -> int:
     else:
         for row in rows:
             d = row.get("date", "").strip()
-            slug = row.get("recipe_slug", "").strip()
+            slug = (row.get("recipe_slug") or row.get("recipe") or "").strip()
             notes = (row.get("notes") or "").strip()
             rating = (row.get("rating") or "").strip()
+
+            title, fname = recipe_map.get(slug, (slug or "(unknown)", ""))
+            link = f"[**{title}**](recipes/{fname})" if fname else f"**{title}**"
 
             extra = []
             if rating:
@@ -53,7 +75,9 @@ def main() -> int:
                 extra.append(notes)
             suffix = " — " + "; ".join(extra) if extra else ""
 
-            lines.append(f"- **{d}** — `{slug}`{suffix}")
+            # include slug in code formatting for easy copy/paste
+            slug_part = f" (`{slug}`)" if slug else ""
+            lines.append(f"- **{d}** — {link}{slug_part}{suffix}")
 
     out_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Wrote {out_path}")
