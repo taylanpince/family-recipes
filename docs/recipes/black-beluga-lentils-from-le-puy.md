@@ -21,6 +21,8 @@ ingredients:
   - black pepper
 ---
 
+![Black Beluga Lentils (Le Puy)](../assets/recipes/black-beluga-lentils-from-le-puy.svg)
+
 ## Steps
 
 1. Boil lentils ~10 minutes, then discard that water.

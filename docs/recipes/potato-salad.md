@@ -14,6 +14,8 @@ ingredients:
   - (dressing not specified)
 ---
 
+![Potato Salad](../assets/recipes/potato-salad.svg)
+
 ## Steps
 
 1. Boil potatoes until tender.

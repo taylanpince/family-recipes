@@ -20,6 +20,8 @@ ingredients:
   - 1 cup blueberries
 ---
 
+![Blueberry Pancakes (Version 2)](../assets/recipes/blueberry-pancakes-version-2.svg)
+
 ## Steps
 
 1. Mix batter ingredients.

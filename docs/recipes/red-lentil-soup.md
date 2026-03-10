@@ -20,6 +20,8 @@ ingredients:
   - salt
 ---
 
+![Red Lentil Soup](../assets/recipes/red-lentil-soup.svg)
+
 ## Steps
 
 1. Add ingredients to pressure cooker with water.

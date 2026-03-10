@@ -17,6 +17,8 @@ ingredients:
   - splash of water
 ---
 
+![Meatballs and Potatoes in the Oven](../assets/recipes/meatballs-and-potatoes-in-oven.svg)
+
 ## Steps
 
 1. Toss potatoes with olive oil in a baking tray.

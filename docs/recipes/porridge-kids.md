@@ -16,6 +16,8 @@ ingredients:
       - Lidya: mango, blueberries, walnut, grated almonds / almond powder
 ---
 
+![Porridge (Kids)](../assets/recipes/porridge-kids.svg)
+
 ## Steps
 
 1. Cook porridge with apple.

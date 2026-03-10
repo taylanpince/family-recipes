@@ -18,6 +18,8 @@ ingredients:
   - salt
 ---
 
+![Turkish Eggplant Salad](../assets/recipes/turkish-eggplant-salad.svg)
+
 ## Steps
 
 1. Roast eggplants in the oven until very soft.

@@ -22,6 +22,8 @@ ingredients:
   - salt
 ---
 
+![Ekin Meatballs](../assets/recipes/ekin-meatballs.svg)
+
 ## Steps
 
 1. Mix all ingredients.

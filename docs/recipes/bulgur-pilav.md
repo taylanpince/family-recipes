@@ -18,6 +18,8 @@ ingredients:
   - salt
 ---
 
+![Bulgur Pilav](../assets/recipes/bulgur-pilav.svg)
+
 ## Steps
 
 1. Sauté onion in olive oil/butter.

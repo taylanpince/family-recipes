@@ -31,6 +31,8 @@ ingredients:
   - salt
 ---
 
+![Kısır](../assets/recipes/kisir-turkish.svg)
+
 ## Steps
 
 1. Pour boiling water over bulgur to hydrate.

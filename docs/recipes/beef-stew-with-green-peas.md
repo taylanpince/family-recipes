@@ -22,6 +22,8 @@ ingredients:
   - black pepper
 ---
 
+![Beef Stew with Green Peas](../assets/recipes/beef-stew-with-green-peas.svg)
+
 ## Steps
 
 1. Sear beef cubes in olive oil over medium-high heat (~5 min).

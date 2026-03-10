@@ -12,6 +12,8 @@ ingredients:
   - oxtail (rabo de vaca) or toro
 ---
 
+![Oxtail Soup](../assets/recipes/oxtail-soup.svg)
+
 ## Steps
 
 1. TODO: add full recipe.

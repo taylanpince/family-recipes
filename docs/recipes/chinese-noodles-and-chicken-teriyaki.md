@@ -17,6 +17,8 @@ ingredients:
   - green onions
 ---
 
+![Chinese Noodles and Chicken Teriyaki](../assets/recipes/chinese-noodles-and-chicken-teriyaki.svg)
+
 ## Steps
 
 1. TODO: fill in full steps (source note: “Meriam’s recipe”).

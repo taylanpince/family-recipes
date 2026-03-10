@@ -21,6 +21,8 @@ ingredients:
   - black pepper
 ---
 
+![Chicken Thighs in Creuset](../assets/recipes/chicken-thighs-in-creuset.svg)
+
 ## Steps
 
 1. Make marinade: brown sugar + paprika + salt + pepper + olive oil + crushed garlic + lemon juice.

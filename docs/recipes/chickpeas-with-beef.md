@@ -23,6 +23,8 @@ ingredients:
   - broth or water (as needed)
 ---
 
+![Chickpeas with Beef](../assets/recipes/chickpeas-with-beef.svg)
+
 ## Steps
 
 1. Soak chickpeas overnight.

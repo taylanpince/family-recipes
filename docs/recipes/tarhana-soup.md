@@ -16,6 +16,8 @@ ingredients:
   - salt
 ---
 
+![Tarhana Soup](../assets/recipes/tarhana-soup.svg)
+
 ## Steps
 
 1. Cook grated tomatoes with a little olive oil for ~45 minutes.

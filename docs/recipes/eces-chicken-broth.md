@@ -22,6 +22,8 @@ ingredients:
   - 2.8 L cold water (about 3 quarts), plus enough to cover by ~2.5 cm
 ---
 
+![Ece’s Chicken Broth](../assets/recipes/eces-chicken-broth.svg)
+
 ## Steps
 
 1. Rinse chicken under cold water.

@@ -19,6 +19,8 @@ ingredients:
   - salt
 ---
 
+![Black-Eyed Peas Salad (Cold)](../assets/recipes/black-eyed-peas-salad-cold-dish.svg)
+
 ## Steps
 
 1. Boil peas, discard the first dark water.

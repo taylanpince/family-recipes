@@ -22,6 +22,8 @@ ingredients:
   - ~1 cup water (for cooking)
 ---
 
+![Vine Leaf Dolma](../assets/recipes/vine-leaf-dolma.svg)
+
 ## Steps
 
 1. Dip vine leaves in hot water ~30 seconds to remove excess salt.

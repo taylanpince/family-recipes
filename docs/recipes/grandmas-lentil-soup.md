@@ -25,6 +25,8 @@ ingredients:
   - black pepper
 ---
 
+![Grandma’s Lentil Soup](../assets/recipes/grandmas-lentil-soup.svg)
+
 ## Steps
 
 1. Cook onions in olive oil on medium-low until tender.

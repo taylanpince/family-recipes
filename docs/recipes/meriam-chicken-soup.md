@@ -21,6 +21,8 @@ ingredients:
   - water (~0.5 L, to the pressure cooker mark)
 ---
 
+![Meriam Chicken Soup](../assets/recipes/meriam-chicken-soup.svg)
+
 ## Steps
 
 1. Add everything to the pressure cooker with water (to the marked level).

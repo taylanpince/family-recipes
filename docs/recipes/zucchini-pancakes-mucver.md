@@ -25,6 +25,8 @@ ingredients:
   - 2 cloves garlic, finely chopped (sauce)
 ---
 
+![Zucchini Pancakes (Mücver)](../assets/recipes/zucchini-pancakes-mucver.svg)
+
 ## Steps
 
 1. Preheat oven to **120°C / 250°F** to keep pancakes warm.

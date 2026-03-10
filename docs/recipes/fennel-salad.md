@@ -18,6 +18,8 @@ ingredients:
   - salt
 ---
 
+![Fennel Salad](../assets/recipes/fennel-salad.svg)
+
 ## Steps
 
 1. Slice fennel.

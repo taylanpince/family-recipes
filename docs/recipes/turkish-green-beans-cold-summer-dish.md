@@ -23,6 +23,8 @@ ingredients:
   - water (as needed)
 ---
 
+![Turkish Green Beans (Cold Summer Dish)](../assets/recipes/turkish-green-beans-cold-summer-dish.svg)
+
 ## Steps
 
 1. Cook onions with olive oil and a bit of sugar until soft/translucent (~10 min).

@@ -19,6 +19,8 @@ ingredients:
   - add-ins: blueberries / banana / walnuts / cinnamon / raisins
 ---
 
+![Pancakes](../assets/recipes/pancakes.svg)
+
 ## Steps
 
 1. Mix egg + flour + milk + melted butter + sugar + baking powder (+ salt).

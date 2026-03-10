@@ -19,6 +19,8 @@ ingredients:
   - black pepper
 ---
 
+![Menemen](../assets/recipes/menemen.svg)
+
 ## Steps
 
 1. Cook peppers and onions in olive oil.

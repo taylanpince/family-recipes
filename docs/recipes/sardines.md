@@ -16,6 +16,8 @@ ingredients:
   - olive oil
 ---
 
+![Sardines](../assets/recipes/sardines.svg)
+
 ## Steps
 
 1. Dry sardines with paper towel.

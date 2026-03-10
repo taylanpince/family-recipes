@@ -20,6 +20,8 @@ ingredients:
   - black pepper
 ---
 
+![Butternut Squash Soup](../assets/recipes/butternut-squash-soup.svg)
+
 ## Steps
 
 1. Add ingredients to pressure cooker.
