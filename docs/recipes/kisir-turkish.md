@@ -1,14 +1,44 @@
 ---
 slug: kisir-turkish
-title: kisir (turkish)
-tags: []
-cuisine: ""
+title: Kısır
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 45
+servings: 6
+tags:
+  - salad
+  - turkish
+  - mezze
+  - vegetarian
+ingredients:
+  - 2 cups fine bulgur
+  - boiling water (enough to hydrate bulgur)
+  - 1 onion
+  - green onions (6–7)
+  - parsley (1 bunch)
+  - dill
+  - mint
+  - 2 medium tomatoes
+  - 1–2 green bell peppers
+  - 1 cucumber
+  - 1–2 lemons (to taste)
+  - paprika
+  - black pepper
+  - cumin (a little)
+  - ~1/2 cup olive oil
+  - 1 tbsp pepper-tomato mix (optional)
+  - tomato paste
+  - salt
 ---
 
-2 cups fine bulgur, onion, green onions, parsley, dill, mint, tomatoes, bell peppers, cucumber.
-Lemon, paprika, pepper, cumin, olive oil (~1/2 cup), pepper-tomato mix, tomato paste.
-Pour boiling water over bulgur. Cook onion a bit, add paste, off heat. Mix, knead with herbs. Add oil, salt, lemon.
+## Steps
+
+1. Pour boiling water over bulgur to hydrate.
+2. Sauté onion with a little oil until translucent (don’t overcook). Add tomato paste, mix briefly, then turn off heat.
+3. Chop herbs and vegetables finely.
+4. Combine bulgur + onion/paste mixture + chopped herbs/veg. Mix/knead with a wooden spoon until well combined.
+5. Add olive oil, salt, lemon juice, and spices to taste.
+
+## Notes
+
+- Traditionally eaten with lettuce leaves.

@@ -1,14 +1,36 @@
 ---
 slug: vine-leaf-dolma
-title: vine leaf dolma
-tags: []
-cuisine: ""
-difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+title: Vine Leaf Dolma
+cuisine: Turkish
+difficulty: medium
+time_total_min: 80
+servings: 6
+tags:
+  - turkish
+  - stuffed
+  - family
+ingredients:
+  - vine leaves
+  - 500 g ground beef
+  - 2 tbsp rice
+  - 1 onion, finely grated
+  - parsley, finely chopped
+  - 2 large tomatoes, grated
+  - olive oil
+  - black pepper
+  - salt
+  - ~1 cup water (for cooking)
 ---
 
-500gr ground beef, 2 tbsp rice, onion grated, parsley, pepper, olive oil, 2 big tomatoes grated.
-Dip leaves 30s in hot water.
-Cook with ~1 cup water, plate on top; boil then low.
+## Steps
+
+1. Dip vine leaves in hot water ~30 seconds to remove excess salt.
+2. Mix filling: ground beef + rice + onion + parsley + salt/pepper + olive oil + grated tomatoes.
+3. Roll dolma and pack tightly in the pot.
+4. Place a plate on top to keep them in place.
+5. Add ~1 cup water.
+6. Bring to a boil, then switch to low heat and cook until done.
+
+## Notes
+
+- The tight packing + plate are key so they don’t unravel.

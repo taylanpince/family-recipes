@@ -1,15 +1,37 @@
 ---
 slug: chickpeas-with-beef
-title: chickpeas with beef
-tags: []
-cuisine: ""
+title: Chickpeas with Beef
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 90
+servings: 6
+tags:
+  - stew
+  - turkish
+  - pressure-cooker
+  - family
+ingredients:
+  - 1 pint glass dried chickpeas (soaked overnight)
+  - 500 g beef cubes
+  - 1 onion
+  - 1 red pepper, diced
+  - 1 carrot, diced
+  - grated tomatoes (enough to cover the meat)
+  - olive oil
+  - salt
+  - black pepper
+  - broth or water (as needed)
 ---
 
-Soak 1 pint glass chickpeas overnight.
-Sear 500gr meat cubes; add onion + diced red pepper + carrot.
-Add chickpeas + lots grated tomatoes (cover meat) + broth if needed.
-Pressure cook 1h.
+## Steps
+
+1. Soak chickpeas overnight.
+2. Sear beef cubes in olive oil.
+3. Add onion, red pepper, and carrot; cook a few minutes.
+4. Add soaked chickpeas.
+5. Add lots of grated tomatoes (aim to cover the meat). Add broth/water if needed.
+6. Pressure cook ~1 hour.
+
+## Notes
+
+- If chickpeas are older/drier, they may need a bit longer.

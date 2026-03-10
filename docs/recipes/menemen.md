@@ -1,13 +1,30 @@
 ---
 slug: menemen
-title: menemen
-tags: []
-cuisine: ""
+title: Menemen
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 20
+servings: 2
+tags:
+  - breakfast
+  - turkish
+  - quick
+ingredients:
+  - peppers
+  - onion
+  - tomatoes
+  - eggs
+  - olive oil
+  - salt
+  - black pepper
 ---
 
-Cook peppers + onions; add tomatoes; low heat.
-Near end add eggs and mix whites so not chunky.
+## Steps
+
+1. Cook peppers and onions in olive oil.
+2. Add tomatoes and simmer on low heat until softened.
+3. Near the end, add eggs and mix the whites so they don’t form big chunks.
+
+## Notes
+
+- Serve with bread.

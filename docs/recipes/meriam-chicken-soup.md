@@ -1,13 +1,35 @@
 ---
 slug: meriam-chicken-soup
-title: meriam chicken soup
-tags: []
+title: Meriam Chicken Soup
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 60
+servings: 6
+tags:
+  - soup
+  - chicken
+  - pressure-cooker
+  - family
+ingredients:
+  - 3 chicken carcasses (cleaned; no skin/fat)
+  - 1 big onion (cut in half)
+  - 2 carrots (peeled)
+  - 2 leeks (cut into 3)
+  - ginger (2 thumb-size pieces)
+  - 1 whole garlic (peeled)
+  - 2 tsp salt
+  - water (~0.5 L, to the pressure cooker mark)
 ---
 
-3 chicken carcasses, 1 onion, 2 carrots, 2 leeks, ginger, 1 garlic, 2 tsp salt, water 0.5L (PC mark).
-Pressure cook 30 min. Blend some veggies with broth; strain bones broth; combine.
+## Steps
+
+1. Add everything to the pressure cooker with water (to the marked level).
+2. Pressure cook ~30 minutes.
+3. Remove the onion, carrots, **2 pieces of leek (white part)**, and **1 piece ginger**.
+4. Blend those vegetables with some broth until smooth.
+5. Stir the remaining broth with bones well to extract flavor, then strain.
+6. Combine strained broth with the blended vegetable base; stir and serve.
+
+## Notes
+
+- This ends up as a smooth, rich soup base.
