@@ -1,21 +1,34 @@
 ---
 slug: black-beluga-lentils-from-le-puy
-title: black beluga lentils (from le puy)
-tags: []
+title: Black Beluga Lentils (Le Puy)
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 60
+servings: 6
+tags:
+  - lentils
+  - vegetarian
+  - weeknight
+ingredients:
+  - black beluga lentils (1.5 pint glass for 6 people; 1 pint for 4)
+  - onion
+  - carrot
+  - garlic
+  - sweet red pepper
+  - 2 tomatoes, grated
+  - olive oil
+  - salt
+  - black pepper
 ---
 
-vegetarian dish
-no broth
+## Steps
 
-1.5 pint glass (6 people) / 1 pint (4 people)
+1. Boil lentils ~10 minutes, then discard that water.
+2. Sauté onion, carrot, garlic, and sweet red pepper in olive oil.
+3. Add grated tomatoes; stir.
+4. Add lentils.
+5. Simmer on low heat ~45 minutes, checking water level.
 
-- boil 10 min, throw water
-- onion, carrot, garlic, sweet red pepper
-- 2 tomatoes grated
+## Notes
 
-stir, add lentils, low heat 45 min, check water level
+- Source note emphasized: vegetarian, no broth.

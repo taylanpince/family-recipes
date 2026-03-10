@@ -1,12 +1,30 @@
 ---
 slug: turkish-shepherd-salad
-title: turkish shepherd salad
-tags: []
-cuisine: ""
+title: Turkish Shepherd Salad (Çoban Salatası)
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 15
+servings: 4
+tags:
+  - salad
+  - turkish
+  - vegetarian
+  - quick
+ingredients:
+  - tomatoes
+  - cucumbers
+  - onion
+  - parsley
+  - lemon juice
+  - olive oil
+  - salt
 ---
 
-Equal tomatoes and cucumbers; add onions, parsley, lemon, olive oil. Finely chopped, crunchy.
+## Steps
+
+1. Finely chop tomatoes, cucumbers, onion, and parsley.
+2. Dress with lemon juice, olive oil, and salt.
+
+## Notes
+
+- Chop fairly fine, but keep it crunchy (don’t mush).

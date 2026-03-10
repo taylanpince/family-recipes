@@ -1,13 +1,31 @@
 ---
 slug: butternut-squash-soup
-title: butternut squash soup
-tags: []
+title: Butternut Squash Soup
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 25
+servings: 6
+tags:
+  - soup
+  - pressure-cooker
+  - weeknight
+ingredients:
+  - butternut squash
+  - chicken stock
+  - carrots
+  - 1 onion
+  - 1 clove garlic
+  - ginger (about 1 thumb, or less)
+  - salt
+  - black pepper
 ---
 
-Chicken stock, carrots, 1 onion, 1 garlic, ginger.
-Pressure cooker 10 min.
+## Steps
+
+1. Add ingredients to pressure cooker.
+2. Cook ~10 minutes under pressure.
+3. Blend until smooth; season to taste.
+
+## Notes
+
+- Exact quantities TBD (source was a short list).

@@ -1,15 +1,33 @@
 ---
 slug: black-eyed-peas-salad-cold-dish
-title: black eyed peas salad (cold dish)
-tags: []
-cuisine: ""
+title: Black-Eyed Peas Salad (Cold)
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 60
+servings: 6
+tags:
+  - salad
+  - turkish
+  - vegetarian
+  - make-ahead
+ingredients:
+  - 500 g black-eyed peas
+  - parsley (lots)
+  - 4–5 green onions
+  - olive oil (lots)
+  - apple vinegar
+  - salt
 ---
 
-500gr.
-Boil, discard first black water. Reboil with salt. Leave a bit of water in pot.
-DO NOT add onions yet.
-Finish with lots parsley, 4-5 green onions, lots olive oil, apple vinegar.
+## Steps
+
+1. Boil peas, discard the first dark water.
+2. Add fresh water + a bit of salt and boil until cooked.
+3. Keep a little cooking water in the pot (don’t drain completely).
+4. Let cool, then add parsley + green onions.
+5. Dress with olive oil + apple vinegar.
+
+## Notes
+
+- Don’t add onions early.
+- Don’t add the oil/vinegar dressing until cooled.

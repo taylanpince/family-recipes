@@ -1,14 +1,27 @@
 ---
 slug: sardines
-title: sardines
-tags: []
+title: Sardines
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 90
+servings: 4
+tags:
+  - fish
+  - marinade
+ingredients:
+  - sardines
+  - onions
+  - parsley
+  - black pepper
+  - olive oil
 ---
 
-Dry sardines.
-Marinade with lots chopped onions+parsley, pepper, olive oil (1-2h).
-Tray: big onion pieces bottom.
+## Steps
+
+1. Dry sardines with paper towel.
+2. Marinate with lots of finely chopped onion + parsley + black pepper + olive oil for 1–2 hours.
+3. For baking/roasting: place big onion pieces on the bottom of a glass tray, then add sardines.
+
+## Notes
+
+- Cooking method details TBD (source note was partial).

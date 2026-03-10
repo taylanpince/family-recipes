@@ -1,13 +1,32 @@
 ---
 slug: beef-stew-with-oregano
-title: beef stew with oregano
-tags: []
+title: Beef Stew with Oregano
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 195
+servings: 6
+tags:
+  - stew
+  - braise
+  - family
+ingredients:
+  - beef cubes
+  - olive oil
+  - garlic (lots)
+  - oregano
+  - black pepper
+  - grated tomato (or a little water)
+  - red wine (optional)
 ---
 
-Seal beef cubes with a bit of water; add olive oil, lots garlic, oregano, pepper, little water or grated tomato.
-Slow cook 3h in le creuset (or pressure cooker 45 min). Red wine optional.
+## Steps
+
+1. Seal/sear beef cubes (note mentions with a bit of water).
+2. Add olive oil, lots of garlic, oregano, and black pepper.
+3. Add a little water or grated tomato.
+4. Slow cook in a Dutch oven (Creuset) ~3 hours.
+
+## Notes
+
+- Pressure cooker alternative noted: ~45 minutes.
+- Red wine optional.

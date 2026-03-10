@@ -1,28 +1,31 @@
 ---
 slug: blueberry-pancakes-version-2
-title: blueberry pancakes (version 2)
-tags: []
+title: Blueberry Pancakes (Version 2)
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 20
+servings: 3
+tags:
+  - breakfast
+  - kid-friendly
+ingredients:
+  - 1 egg
+  - 1 cup flour
+  - 1 cup milk
+  - 2 tbsp melted butter
+  - 1/2 tbsp sugar
+  - 1 tsp baking powder ("1 pack")
+  - pinch of salt
+  - a squeeze of lemon (into the baking powder)
+  - 1 cup blueberries
 ---
 
-1 egg
-1 cup flour
-1 cup milk
-2 tablespoons melted butter
-1/2 tablespoon sugar
-1 pack baking powder (~1 tsp)
+## Steps
 
-- squeeze a bit of lemon in the baking powder
-- 1 pinch of salt
+1. Mix batter ingredients.
+2. Add a squeeze of lemon into the baking powder.
+3. Cook pancakes over **medium heat**.
 
-mix all
+## Notes
 
-grease heated pan if necessary
-pour 3 tablespoons of batter
-
-+1 cup blueberries
-=9 pancakes
+- Source note: yields ~9 pancakes.

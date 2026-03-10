@@ -1,12 +1,30 @@
 ---
 slug: meriam-dumplings
-title: meriam dumplings
-tags: []
+title: Meriam Dumplings
 cuisine: ""
-difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+difficulty: medium
+time_total_min: 45
+servings: 4
+tags:
+  - dumplings
+  - family
+ingredients:
+  - 400 g ground beef
+  - 1 carrot, chopped into tiny pieces
+  - 1 egg
+  - 3 green onions (spring onions), chopped small
+  - 50 g shiitake mushrooms (or ~5), chopped small
+  - 1 pack gyoza wrappers
+  - green peas (optional base for steaming/serving)
 ---
 
-(Recipe; to be cleaned up)
+## Steps
+
+1. Mix beef + carrot + egg + green onion + shiitake.
+2. Wrap filling in gyoza wrappers.
+3. Steam **20–25 minutes** over medium heat.
+
+## Notes
+
+- One note mentions cooking/serving on a green-pea base.
+- Variation noted in source: 500 g beef + whole egg + extra egg yolk.

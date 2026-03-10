@@ -1,12 +1,31 @@
 ---
 slug: red-lentil-soup
-title: red lentil soup
-tags: []
-cuisine: ""
+title: Red Lentil Soup
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 45
+servings: 6
+tags:
+  - soup
+  - turkish
+  - pressure-cooker
+ingredients:
+  - 1.5 pint glasses red lentils
+  - 1 carrot
+  - 1 big onion
+  - 1–2 cloves garlic
+  - 2 tomatoes
+  - 1 leek (optional)
+  - water (about 6 soup bowls)
+  - salt
 ---
 
-1.5 pint glasses red lentil, carrot, onion, garlic, tomatoes (leek optional). Water 6 bowls (or PC 1/3 L mark). Pressure cook 30 min.
+## Steps
+
+1. Add ingredients to pressure cooker with water.
+2. Pressure cook ~30 minutes.
+3. Blend if you want it smooth; season to taste.
+
+## Notes
+
+- Original note mentions: medium heat / smaller fire.

@@ -1,12 +1,28 @@
 ---
 slug: turkish-eggplant-salad
-title: turkish eggplant salad
-tags: []
-cuisine: ""
+title: Turkish Eggplant Salad
+cuisine: Turkish
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 40
+servings: 4
+tags:
+  - mezze
+  - turkish
+  - vegetarian
+ingredients:
+  - eggplants
+  - yogurt
+  - garlic
+  - parsley
+  - olive oil
+  - salt
 ---
 
-Roast eggplants. Mix with yogurt, garlic, parsley, olive oil.
+## Steps
+
+1. Roast eggplants in the oven until very soft.
+2. Scoop flesh and mix with yogurt, garlic, parsley, olive oil, and salt.
+
+## Notes
+
+- Quantities TBD.

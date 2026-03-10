@@ -1,12 +1,21 @@
 ---
 slug: oxtail-soup
-title: oxtail soup
-tags: []
+title: Oxtail Soup
 cuisine: ""
-difficulty: easy
+difficulty: medium
 time_total_min: 0
 servings: 0
-ingredients: []
+tags:
+  - soup
+  - stew
+ingredients:
+  - oxtail (rabo de vaca) or toro
 ---
 
-rabo de vaca (oxtail) or toro?
+## Steps
+
+1. TODO: add full recipe.
+
+## Notes
+
+- Placeholder from the original cookbook note.

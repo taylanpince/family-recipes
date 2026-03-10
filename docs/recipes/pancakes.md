@@ -1,36 +1,39 @@
 ---
 slug: pancakes
-title: pancakes
-tags: []
+title: Pancakes
 cuisine: ""
 difficulty: easy
-time_total_min: 0
-servings: 0
-ingredients: []
+time_total_min: 20
+servings: 3
+tags:
+  - breakfast
+  - kid-friendly
+ingredients:
+  - 1 egg
+  - 1 cup flour
+  - 1 cup milk
+  - 2 tbsp melted butter
+  - 1/2 tbsp sugar
+  - 1 tsp baking powder
+  - pinch of salt (optional)
+  - add-ins: blueberries / banana / walnuts / cinnamon / raisins
 ---
 
-### Flavours
-1-banana + walnut + cinnamon
-2-blueberry
+## Steps
 
-Notes:
-- don’t use strawberries they are too sour
+1. Mix egg + flour + milk + melted butter + sugar + baking powder (+ salt).
+2. Heat pan; lightly grease if needed. (Test: a few drops of water should sizzle.)
+3. Pour ~3 tbsp batter per pancake.
+4. Add-ins:
+   - blueberries: drop 2–3 into each pancake while cooking
+   - banana + walnut + cinnamon
+   - raisins + walnuts + cinnamon
 
-## blueberry pancakes
+## Notes
 
-1 egg
-1 cup flour
-1 cup milk
-2 tablespoons melted butter
-1/2 tablespoon sugar
-1 teaspoon baking powder
+- Avoid strawberries (note: “too sour”).
 
-mix all
+## Blueberry pancakes (version 2)
 
-grease heated pan if necessary (to test sprinkle a few drops of water)
-
-pour 3 tablespoons of batter
-
-variations:
-- drop 2-3 blueberries while cooking
-- or raisins + walnuts + cinnamon
+- Same base, plus: squeeze a bit of lemon into the baking powder.
+- Add ~1 cup blueberries (makes ~9 pancakes).

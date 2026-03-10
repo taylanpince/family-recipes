@@ -1,0 +1,8 @@
+# build output
+site/
+
+# local scratch
+.tmp/
+tmp/
+*.log
+*.txt
