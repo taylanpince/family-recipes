@@ -4,4 +4,4 @@ Source of truth: `log/cooked.csv` (append-only).
 
 ## Latest
 
-(No entries yet.)
+- **2026-03-10** — ``

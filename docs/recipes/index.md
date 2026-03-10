@@ -1,5 +1,7 @@
 # Recipes
 
+- [Conventions + schema](conventions.md)
+
 ## All recipes
 
 - [Barbun (Pinto) Beans (Cold Summer Dish)](barbun-pinto-beans-cold-summer-dish.md)
@@ -19,6 +21,7 @@
 - [Grandma’s Lentil Soup](grandmas-lentil-soup.md)
 - [Green Beans with Minced Meat](green-beans-with-minced-meat.md)
 - [Kısır](kisir-turkish.md)
+- [Lubina (Seabass)](lubina-seabass.md)
 - [Meatballs and Potatoes in the Oven](meatballs-and-potatoes-in-oven.md)
 - [Menemen](menemen.md)
 - [Meriam Chicken Soup](meriam-chicken-soup.md)
