@@ -16,5 +16,4 @@ nav:
   - Home: index.md
   - Recipes:
       - Overview: recipes/index.md
-      - Conventions: recipes/conventions.md
   - Cooking log: log.md

@@ -1,7 +1,5 @@
 # Recipes
 
-- [Conventions + schema](conventions.md)
-
 ## All recipes
 
 - [Barbun (Pinto) Beans (Cold Summer Dish)](barbun-pinto-beans-cold-summer-dish.md)
