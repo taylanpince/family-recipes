@@ -26,7 +26,7 @@
 - [meriam chicken soup](meriam-chicken-soup.md)
 - [meriam dumplings](meriam-dumplings.md)
 - [oxtail soup](oxtail-soup.md)
-- [pancak e](pancak-e.md)
+- [pancakes](pancakes.md)
 - [porridge (kids)](porridge-kids.md)
 - [potato salad](potato-salad.md)
 - [red lentil soup](red-lentil-soup.md)
