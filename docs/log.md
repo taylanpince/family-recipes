@@ -1,9 +1,7 @@
 # Cooking log
 
-Manual log of what we cooked.
+Source of truth: `log/cooked.csv` (append-only).
 
-We keep the raw file at `log/cooked.csv`.
+## Latest
 
-## Latest entries
-
-(Generated later — for now, edit `log/cooked.csv` directly.)
+(No entries yet.)
