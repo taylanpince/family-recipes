@@ -1,6 +1,6 @@
 ---
-slug: pancak-e
-title: pancak e
+slug: pancakes
+title: pancakes
 tags: []
 cuisine: ""
 difficulty: easy
