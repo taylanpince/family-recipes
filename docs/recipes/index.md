@@ -1,6 +1,5 @@
 # Recipes
 
-- [Conventions + schema](conventions.md)
 
 ## All recipes
 
