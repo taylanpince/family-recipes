@@ -19,6 +19,10 @@ ingredients:
   - black pepper
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Menemen](../assets/recipe-photos/menemen.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -39,10 +43,6 @@ ingredients:
 - black pepper
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Menemen](../assets/recipe-photos/menemen.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

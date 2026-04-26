@@ -19,6 +19,10 @@ ingredients:
   - salt
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Black-Eyed Peas Salad (Cold)](../assets/recipe-photos/black-eyed-peas-salad-cold-dish.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -38,10 +42,6 @@ ingredients:
 - salt
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Black-Eyed Peas Salad (Cold)](../assets/recipe-photos/black-eyed-peas-salad-cold-dish.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

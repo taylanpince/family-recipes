@@ -23,6 +23,10 @@ ingredients:
   - water (as needed)
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Turkish Green Beans (Cold Summer Dish)](../assets/recipe-photos/turkish-green-beans-cold-summer-dish.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -46,10 +50,6 @@ ingredients:
 - water (as needed)
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Turkish Green Beans (Cold Summer Dish)](../assets/recipe-photos/turkish-green-beans-cold-summer-dish.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

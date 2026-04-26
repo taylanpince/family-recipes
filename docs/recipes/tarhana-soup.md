@@ -16,6 +16,10 @@ ingredients:
   - salt
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Tarhana Soup](../assets/recipe-photos/tarhana-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -34,10 +38,6 @@ ingredients:
 - salt
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Tarhana Soup](../assets/recipe-photos/tarhana-soup.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

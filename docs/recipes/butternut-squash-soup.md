@@ -20,6 +20,10 @@ ingredients:
   - black pepper
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Butternut Squash Soup](../assets/recipe-photos/butternut-squash-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -40,10 +44,6 @@ ingredients:
 - black pepper
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Butternut Squash Soup](../assets/recipe-photos/butternut-squash-soup.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

@@ -14,6 +14,10 @@ ingredients:
   - (dressing not specified)
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Potato Salad](../assets/recipe-photos/potato-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -29,10 +33,6 @@ ingredients:
 - (dressing not specified)
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Potato Salad](../assets/recipe-photos/potato-salad.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

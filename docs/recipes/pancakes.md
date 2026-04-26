@@ -19,6 +19,10 @@ ingredients:
   - add-ins: blueberries / banana / walnuts / cinnamon / raisins
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Pancakes](../assets/recipe-photos/pancakes.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -39,10 +43,6 @@ ingredients:
 - add-ins: blueberries / banana / walnuts / cinnamon / raisins
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Pancakes](../assets/recipe-photos/pancakes.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

@@ -18,6 +18,10 @@ ingredients:
   - salt
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Fennel Salad](../assets/recipe-photos/fennel-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -36,10 +40,6 @@ ingredients:
 - salt
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Fennel Salad](../assets/recipe-photos/fennel-salad.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

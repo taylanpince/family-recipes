@@ -25,6 +25,10 @@ ingredients:
   - Pappardelle pasta
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Pappardelle Ragù](../assets/recipe-photos/pappardelle-ragu.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -50,10 +54,6 @@ ingredients:
 - Pappardelle pasta
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Pappardelle Ragù](../assets/recipe-photos/pappardelle-ragu.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

@@ -25,6 +25,10 @@ ingredients:
   - 2 cloves garlic, finely chopped (sauce)
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Zucchini Pancakes (Mücver)](../assets/recipe-photos/zucchini-pancakes-mucver.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -51,10 +55,6 @@ ingredients:
 - 2 cloves garlic, finely chopped (sauce)
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Zucchini Pancakes (Mücver)](../assets/recipe-photos/zucchini-pancakes-mucver.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

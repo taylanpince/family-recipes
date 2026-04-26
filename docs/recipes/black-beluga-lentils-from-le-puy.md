@@ -21,6 +21,10 @@ ingredients:
   - black pepper
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Black Beluga Lentils (Le Puy)](../assets/recipe-photos/black-beluga-lentils-from-le-puy.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -42,10 +46,6 @@ ingredients:
 - black pepper
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Black Beluga Lentils (Le Puy)](../assets/recipe-photos/black-beluga-lentils-from-le-puy.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

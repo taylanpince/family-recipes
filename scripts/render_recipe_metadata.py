@@ -53,6 +53,19 @@ def strip_generated_block(body: str) -> str:
     return pattern.sub("", body).lstrip("\n")
 
 
+def split_photo_block(body: str) -> tuple[str, str]:
+    pattern = re.compile(
+        rf"({re.escape('<!-- RECIPE_PHOTO_START -->')}.*?{re.escape('<!-- RECIPE_PHOTO_END -->')}\n*)",
+        re.S,
+    )
+    m = pattern.search(body)
+    if not m:
+        return "", body.lstrip("\n")
+    photo = m.group(1).strip() + "\n\n"
+    rest = (body[:m.start()] + body[m.end():]).lstrip("\n")
+    return photo, rest
+
+
 def build_block(fm: str) -> str:
     cuisine = parse_scalar(fm, "cuisine")
     difficulty = parse_scalar(fm, "difficulty")
@@ -93,8 +106,9 @@ def render_file(path: Path) -> bool:
         return False
     fm, body = parsed
     cleaned = strip_generated_block(body)
+    photo_block, remainder = split_photo_block(cleaned)
     block = build_block(fm)
-    new_text = f"---\n{fm}---\n\n{block}{cleaned.lstrip()}"
+    new_text = f"---\n{fm}---\n\n{photo_block}{block}{remainder.lstrip()}"
     if new_text == text:
         return False
     path.write_text(new_text, encoding="utf-8")

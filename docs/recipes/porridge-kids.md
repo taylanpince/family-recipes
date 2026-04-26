@@ -16,6 +16,10 @@ ingredients:
       - Lidya: mango, blueberries, walnut, grated almonds / almond powder
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Porridge (Kids)](../assets/recipe-photos/porridge-kids.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -33,10 +37,6 @@ ingredients:
 - Lidya: mango, blueberries, walnut, grated almonds / almond powder
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Porridge (Kids)](../assets/recipe-photos/porridge-kids.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

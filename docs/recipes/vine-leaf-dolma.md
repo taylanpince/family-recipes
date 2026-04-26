@@ -22,6 +22,10 @@ ingredients:
   - ~1 cup water (for cooking)
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Vine Leaf Dolma](../assets/recipe-photos/vine-leaf-dolma.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -45,10 +49,6 @@ ingredients:
 - ~1 cup water (for cooking)
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Vine Leaf Dolma](../assets/recipe-photos/vine-leaf-dolma.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

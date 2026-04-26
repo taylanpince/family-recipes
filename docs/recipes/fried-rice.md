@@ -27,6 +27,10 @@ ingredients:
   - ½ cup cilantro or scallions, minced
 ---
 
+<!-- RECIPE_PHOTO_START -->
+![Fried Rice](../assets/recipe-photos/fried-rice.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
@@ -54,10 +58,6 @@ ingredients:
 - ½ cup cilantro or scallions, minced
 
 <!-- GENERATED_RECIPE_METADATA_END -->
-
-<!-- RECIPE_PHOTO_START -->
-![Fried Rice](../assets/recipe-photos/fried-rice.jpg)
-<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 
