@@ -13,7 +13,5 @@ theme:
     - content.action.edit
 
 nav:
-  - Home: index.md
-  - Recipes:
-      - Overview: recipes/index.md
+  - Recipes: recipes/index.md
   - Cooking log: log.md
