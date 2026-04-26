@@ -45,7 +45,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Beef Stew with Green Peas](../assets/recipes/beef-stew-with-green-peas.svg)
+<!-- RECIPE_PHOTO_START -->
+![Beef Stew with Green Peas](../assets/recipe-photos/beef-stew-with-green-peas.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

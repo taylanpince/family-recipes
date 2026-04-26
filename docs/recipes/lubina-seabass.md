@@ -35,8 +35,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Lubina (Seabass)](../assets/recipes/lubina-seabass.svg)
-
 ## Steps
 
 1. Rinse/clean the fish with fresh water.

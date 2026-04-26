@@ -34,7 +34,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Porridge (Kids)](../assets/recipes/porridge-kids.svg)
+<!-- RECIPE_PHOTO_START -->
+![Porridge (Kids)](../assets/recipe-photos/porridge-kids.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

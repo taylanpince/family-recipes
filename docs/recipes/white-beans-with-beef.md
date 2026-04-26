@@ -49,8 +49,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![White Beans with Beef](../assets/recipes/white-beans-with-beef.svg)
-
 ## Steps
 
 1. Soak beans overnight.

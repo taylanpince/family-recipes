@@ -42,7 +42,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Red Lentil Soup](../assets/recipes/red-lentil-soup.svg)
+<!-- RECIPE_PHOTO_START -->
+![Red Lentil Soup](../assets/recipe-photos/red-lentil-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

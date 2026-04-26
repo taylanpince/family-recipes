@@ -37,7 +37,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Fennel Salad](../assets/recipes/fennel-salad.svg)
+<!-- RECIPE_PHOTO_START -->
+![Fennel Salad](../assets/recipe-photos/fennel-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

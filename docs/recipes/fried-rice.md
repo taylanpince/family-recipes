@@ -55,6 +55,10 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
+<!-- RECIPE_PHOTO_START -->
+![Fried Rice](../assets/recipe-photos/fried-rice.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 ## Steps
 
 1. Heat 1 tbsp oil in a wok or large skillet over high heat. Add onion, pepper, and carrots. Cook, stirring occasionally, until softened and starting to brown, 5–10 minutes. Remove to a bowl with a slotted spoon.

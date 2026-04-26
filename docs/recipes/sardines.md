@@ -34,8 +34,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Sardines](../assets/recipes/sardines.svg)
-
 ## Steps
 
 1. Dry sardines with paper towel.

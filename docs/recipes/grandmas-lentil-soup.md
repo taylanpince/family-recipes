@@ -51,8 +51,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Grandma’s Lentil Soup](../assets/recipes/grandmas-lentil-soup.svg)
-
 ## Steps
 
 1. Cook onions in olive oil on medium-low until tender.

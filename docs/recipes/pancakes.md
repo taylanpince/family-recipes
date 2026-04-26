@@ -40,7 +40,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Pancakes](../assets/recipes/pancakes.svg)
+<!-- RECIPE_PHOTO_START -->
+![Pancakes](../assets/recipe-photos/pancakes.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

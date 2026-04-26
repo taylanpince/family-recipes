@@ -47,7 +47,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Turkish Green Beans (Cold Summer Dish)](../assets/recipes/turkish-green-beans-cold-summer-dish.svg)
+<!-- RECIPE_PHOTO_START -->
+![Turkish Green Beans (Cold Summer Dish)](../assets/recipe-photos/turkish-green-beans-cold-summer-dish.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

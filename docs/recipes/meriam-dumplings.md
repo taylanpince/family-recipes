@@ -38,8 +38,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Meriam Dumplings](../assets/recipes/meriam-dumplings.svg)
-
 ## Steps
 
 1. Mix beef + carrot + egg + green onion + shiitake.

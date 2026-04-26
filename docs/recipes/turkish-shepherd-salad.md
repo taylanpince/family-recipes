@@ -41,8 +41,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Turkish Shepherd Salad (Çoban Salatası)](../assets/recipes/turkish-shepherd-salad.svg)
-
 ## Steps
 
 1. Finely chop tomatoes, cucumbers, onion, and parsley.

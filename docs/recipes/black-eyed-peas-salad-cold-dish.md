@@ -39,7 +39,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Black-Eyed Peas Salad (Cold)](../assets/recipes/black-eyed-peas-salad-cold-dish.svg)
+<!-- RECIPE_PHOTO_START -->
+![Black-Eyed Peas Salad (Cold)](../assets/recipe-photos/black-eyed-peas-salad-cold-dish.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

@@ -41,7 +41,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Butternut Squash Soup](../assets/recipes/butternut-squash-soup.svg)
+<!-- RECIPE_PHOTO_START -->
+![Butternut Squash Soup](../assets/recipe-photos/butternut-squash-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

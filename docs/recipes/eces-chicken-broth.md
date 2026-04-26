@@ -44,8 +44,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Ece’s Chicken Broth](../assets/recipes/eces-chicken-broth.svg)
-
 ## Steps
 
 1. Rinse chicken under cold water.

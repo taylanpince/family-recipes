@@ -30,7 +30,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Potato Salad](../assets/recipes/potato-salad.svg)
+<!-- RECIPE_PHOTO_START -->
+![Potato Salad](../assets/recipe-photos/potato-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

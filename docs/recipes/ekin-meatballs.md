@@ -46,8 +46,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Ekin Meatballs](../assets/recipes/ekin-meatballs.svg)
-
 ## Steps
 
 1. Mix all ingredients.

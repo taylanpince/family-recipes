@@ -38,7 +38,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Turkish Eggplant Salad](../assets/recipes/turkish-eggplant-salad.svg)
+<!-- RECIPE_PHOTO_START -->
+![Turkish Eggplant Salad](../assets/recipe-photos/turkish-eggplant-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

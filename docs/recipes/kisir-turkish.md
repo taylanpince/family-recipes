@@ -63,7 +63,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Kısır](../assets/recipes/kisir-turkish.svg)
+<!-- RECIPE_PHOTO_START -->
+![Kısır](../assets/recipe-photos/kisir-turkish.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

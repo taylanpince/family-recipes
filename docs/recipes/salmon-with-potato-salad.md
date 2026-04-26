@@ -29,6 +29,10 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
+<!-- RECIPE_PHOTO_START -->
+![Salmon with Potato Salad](../assets/recipe-photos/salmon-with-potato-salad.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 ## Notes
 
 - Logged from dinner note.

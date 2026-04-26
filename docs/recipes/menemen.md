@@ -40,7 +40,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Menemen](../assets/recipes/menemen.svg)
+<!-- RECIPE_PHOTO_START -->
+![Menemen](../assets/recipe-photos/menemen.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

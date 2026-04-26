@@ -38,7 +38,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Bulgur Pilav](../assets/recipes/bulgur-pilav.svg)
+<!-- RECIPE_PHOTO_START -->
+![Bulgur Pilav](../assets/recipe-photos/bulgur-pilav.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

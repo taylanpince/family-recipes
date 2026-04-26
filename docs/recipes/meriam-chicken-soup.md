@@ -42,8 +42,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Meriam Chicken Soup](../assets/recipes/meriam-chicken-soup.svg)
-
 ## Steps
 
 1. Add everything to the pressure cooker with water (to the marked level).

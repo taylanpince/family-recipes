@@ -24,7 +24,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Oxtail Soup](../assets/recipes/oxtail-soup.svg)
+<!-- RECIPE_PHOTO_START -->
+![Oxtail Soup](../assets/recipe-photos/oxtail-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

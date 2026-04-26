@@ -43,7 +43,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Black Beluga Lentils (Le Puy)](../assets/recipes/black-beluga-lentils-from-le-puy.svg)
+<!-- RECIPE_PHOTO_START -->
+![Black Beluga Lentils (Le Puy)](../assets/recipe-photos/black-beluga-lentils-from-le-puy.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

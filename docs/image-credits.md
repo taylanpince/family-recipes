@@ -1,0 +1,117 @@
+# Image Credits
+
+Recipe photos were selected manually from Wikimedia Commons where a plausible food-photo match existed.
+Recipes without a good Commons match were left without a replacement photo for now.
+
+## Applied recipe photos
+
+- **beef-stew-with-green-peas**
+  - Commons file: [File:Ragoût viande, petits pois, Tunisie 2018 DSC 7726.jpg](https://commons.wikimedia.org/wiki/File:Rago%C3%BBt_viande,_petits_pois,_Tunisie_2018_DSC_7726.jpg)
+  - Creator: Habib M'henni
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **black-beluga-lentils-from-le-puy**
+  - Commons file: [File:Beluga lentils.jpg](https://commons.wikimedia.org/wiki/File:Beluga_lentils.jpg)
+  - Creator: Stefan Steinbauer from Vienna, Austria
+  - License: CC BY 2.0
+  - Credit: Beluga lentils
+- **black-eyed-peas-salad-cold-dish**
+  - Commons file: [File:Black-eyed peas salad (6938556333).jpg](https://commons.wikimedia.org/wiki/File:Black-eyed_peas_salad_(6938556333).jpg)
+  - Creator: Cooking etc. from Athens, Greece
+  - License: CC BY 2.0
+  - Credit: Black-eyed peas salad
+- **blueberry-pancakes-version-2**
+  - Commons file: [File:Blueberry pancakes Pj Princeton.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_pancakes_Pj_Princeton.jpg)
+  - Creator: Photo: Andreas Praefcke
+  - License: CC BY 3.0
+  - Credit: Self-photographed
+- **bulgur-pilav**
+  - Commons file: [File:Tel sehriyeli bulgur pilav.jpg](https://commons.wikimedia.org/wiki/File:Tel_sehriyeli_bulgur_pilav.jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **butternut-squash-soup**
+  - Commons file: [File:Butternut squash soup - El Dorado Kitchen - Nov 2018 - Sarah Stierch 01.jpg](https://commons.wikimedia.org/wiki/File:Butternut_squash_soup_-_El_Dorado_Kitchen_-_Nov_2018_-_Sarah_Stierch_01.jpg)
+  - Creator: Missvain
+  - License: CC BY 4.0
+  - Credit: Own work
+- **fennel-salad**
+  - Commons file: [File:Fennel and orange salad.jpg](https://commons.wikimedia.org/wiki/File:Fennel_and_orange_salad.jpg)
+  - Creator: Jonathan
+  - License: CC BY 2.0
+  - Credit: Our Nom starter - fennel and orange salad
+- **fried-rice**
+  - Commons file: [File:Chinese fried rice homemade.jpg](https://commons.wikimedia.org/wiki/File:Chinese_fried_rice_homemade.jpg)
+  - Creator: Hrishikes
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **kisir-turkish**
+  - Commons file: [File:Kisir (small portion).jpg](https://commons.wikimedia.org/wiki/File:Kisir_(small_portion).jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **menemen**
+  - Commons file: [File:Turkish egg dish Menemen.jpg](https://commons.wikimedia.org/wiki/File:Turkish_egg_dish_Menemen.jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **oxtail-soup**
+  - Commons file: [File:Oxtail soup is repping UT-Austin. -hookemhorns (16054513605).jpg](https://commons.wikimedia.org/wiki/File:Oxtail_soup_is_repping_UT-Austin._-hookemhorns_(16054513605).jpg)
+  - Creator: Arnold Gatilao from Oakland, CA, USA
+  - License: CC BY 2.0
+  - Credit: Oxtail soup is repping UT-Austin. #hookemhorns
+- **pancakes**
+  - Commons file: [File:Pancakes with fruit.jpg](https://commons.wikimedia.org/wiki/File:Pancakes_with_fruit.jpg)
+  - Creator: Nightcrafter
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **pappardelle-ragu**
+  - Commons file: [File:Pappardelle al ragù e piselli.jpg](https://commons.wikimedia.org/wiki/File:Pappardelle_al_rag%C3%B9_e_piselli.jpg)
+  - Creator: Jason Lam
+  - License: CC BY 2.0
+  - Credit: originally posted to Flickr as 02 Tagliatelle al Ragu e Piselli
+- **porridge-kids**
+  - Commons file: [File:Oatmeal porridge 1-minute with additional ingredients.jpg](https://commons.wikimedia.org/wiki/File:Oatmeal_porridge_1-minute_with_additional_ingredients.jpg)
+  - Creator: UserTwoSix
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **potato-salad**
+  - Commons file: [File:Potato salad-2.jpg](https://commons.wikimedia.org/wiki/File:Potato_salad-2.jpg)
+  - Creator: jules
+  - License: CC BY 2.0
+  - Credit: https://www.flickr.com/photos/stone-soup/5245820758/
+- **red-lentil-soup**
+  - Commons file: [File:Bowl of lentil soup with green and red lentils.jpg](https://commons.wikimedia.org/wiki/File:Bowl_of_lentil_soup_with_green_and_red_lentils.jpg)
+  - Creator: Whoisjohngalt
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **salmon-with-potato-salad**
+  - Commons file: [File:Oak-Roasted Salmon With Potato Salad (3119136452).jpg](https://commons.wikimedia.org/wiki/File:Oak-Roasted_Salmon_With_Potato_Salad_(3119136452).jpg)
+  - Creator: TravelingOtter
+  - License: CC BY 2.0
+  - Credit: Oak-Roasted Salmon With Potato Salad
+- **tarhana-soup**
+  - Commons file: [File:Tarhana soup in Ankara.jpg](https://commons.wikimedia.org/wiki/File:Tarhana_soup_in_Ankara.jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **turkish-eggplant-salad**
+  - Commons file: [File:Patlıcan salata (Eggplant salad).jpg](https://commons.wikimedia.org/wiki/File:Patl%C4%B1can_salata_(Eggplant_salad).jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **turkish-green-beans-cold-summer-dish**
+  - Commons file: [File:How to cook green beans.jpg](https://commons.wikimedia.org/wiki/File:How_to_cook_green_beans.jpg)
+  - Creator: E4024
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **vine-leaf-dolma**
+  - Commons file: [File:Lebanese Stuffed Grapevine Leaves Waraq 'Inab Dolma Newton Massachusetts.jpg](https://commons.wikimedia.org/wiki/File:Lebanese_Stuffed_Grapevine_Leaves_Waraq_%27Inab_Dolma_Newton_Massachusetts.jpg)
+  - Creator: EgorovaSvetlana
+  - License: CC BY-SA 4.0
+  - Credit: Own work
+- **zucchini-pancakes-mucver**
+  - Commons file: [File:Zucchini mint feta pancakes.jpg](https://commons.wikimedia.org/wiki/File:Zucchini_mint_feta_pancakes.jpg)
+  - Creator: Egan Snow
+  - License: CC BY-SA 2.0
+  - Credit: originally posted to Flickr as zucchini mint feta pancakes

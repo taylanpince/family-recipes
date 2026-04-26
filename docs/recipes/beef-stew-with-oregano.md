@@ -39,8 +39,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Beef Stew with Oregano](../assets/recipes/beef-stew-with-oregano.svg)
-
 ## Steps
 
 1. Seal/sear beef cubes (note mentions with a bit of water).

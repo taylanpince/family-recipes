@@ -42,8 +42,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Swiss Chard Dolma](../assets/recipes/swiss-chard-dolma.svg)
-
 ## Steps
 
 1. Mix filling: ground beef + grated tomatoes + bulgur + grated onion + salt/pepper.

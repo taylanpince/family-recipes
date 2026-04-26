@@ -47,8 +47,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Barbun (Pinto) Beans (Cold Summer Dish)](../assets/recipes/barbun-pinto-beans-cold-summer-dish.svg)
-
 ## Steps
 
 1. Soak beans overnight.

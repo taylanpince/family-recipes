@@ -51,6 +51,10 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
+<!-- RECIPE_PHOTO_START -->
+![Pappardelle Ragù](../assets/recipe-photos/pappardelle-ragu.jpg)
+<!-- RECIPE_PHOTO_END -->
+
 ## Steps
 
 1. Pat beef dry and season generously with salt.

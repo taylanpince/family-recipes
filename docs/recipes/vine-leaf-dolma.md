@@ -46,7 +46,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Vine Leaf Dolma](../assets/recipes/vine-leaf-dolma.svg)
+<!-- RECIPE_PHOTO_START -->
+![Vine Leaf Dolma](../assets/recipe-photos/vine-leaf-dolma.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

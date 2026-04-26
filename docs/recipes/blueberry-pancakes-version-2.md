@@ -42,7 +42,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Blueberry Pancakes (Version 2)](../assets/recipes/blueberry-pancakes-version-2.svg)
+<!-- RECIPE_PHOTO_START -->
+![Blueberry Pancakes (Version 2)](../assets/recipe-photos/blueberry-pancakes-version-2.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

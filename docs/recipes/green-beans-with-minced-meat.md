@@ -44,8 +44,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Green Beans with Minced Meat](../assets/recipes/green-beans-with-minced-meat.svg)
-
 ## Steps
 
 1. Heat olive oil and cook onion until tender.

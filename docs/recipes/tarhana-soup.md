@@ -35,7 +35,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Tarhana Soup](../assets/recipes/tarhana-soup.svg)
+<!-- RECIPE_PHOTO_START -->
+![Tarhana Soup](../assets/recipe-photos/tarhana-soup.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

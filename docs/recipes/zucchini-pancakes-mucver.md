@@ -52,7 +52,9 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Zucchini Pancakes (Mücver)](../assets/recipes/zucchini-pancakes-mucver.svg)
+<!-- RECIPE_PHOTO_START -->
+![Zucchini Pancakes (Mücver)](../assets/recipe-photos/zucchini-pancakes-mucver.jpg)
+<!-- RECIPE_PHOTO_END -->
 
 ## Steps
 

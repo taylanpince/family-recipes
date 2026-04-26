@@ -46,8 +46,6 @@ ingredients:
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
-![Zucchini Dolma](../assets/recipes/zucchini-dolma.svg)
-
 ## Steps
 
 1. Cut ends off zucchini, cut in half, and core (leave ~1 inch at the bottom).
