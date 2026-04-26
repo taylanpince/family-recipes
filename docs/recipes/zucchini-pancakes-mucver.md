@@ -25,6 +25,33 @@ ingredients:
   - 2 cloves garlic, finely chopped (sauce)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 30 min
+- **Servings:** 4
+- **Tags:** vegetarian, fritters, weeknight
+
+## Ingredients
+
+- 3 medium zucchini (~450 g), shredded
+- salt
+- black pepper
+- 3 large eggs, beaten
+- 1/2 cup all-purpose flour
+- 1 tbsp extra virgin olive oil
+- 1 cup crumbled feta
+- 3 scallions, finely chopped
+- 1/3 cup dill, finely chopped
+- 1 tsp baking powder
+- 4–6 tbsp vegetable oil (for frying)
+- 2/3 cup plain yogurt (sauce)
+- 2 cloves garlic, finely chopped (sauce)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Zucchini Pancakes (Mücver)](../assets/recipes/zucchini-pancakes-mucver.svg)
 
 ## Steps

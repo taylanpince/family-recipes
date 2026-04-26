@@ -22,6 +22,30 @@ ingredients:
   - ~1 cup water (for cooking)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** medium
+- **Total time:** 80 min
+- **Servings:** 6
+- **Tags:** turkish, stuffed, family
+
+## Ingredients
+
+- vine leaves
+- 500 g ground beef
+- 2 tbsp rice
+- 1 onion, finely grated
+- parsley, finely chopped
+- 2 large tomatoes, grated
+- olive oil
+- black pepper
+- salt
+- ~1 cup water (for cooking)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Vine Leaf Dolma](../assets/recipes/vine-leaf-dolma.svg)
 
 ## Steps

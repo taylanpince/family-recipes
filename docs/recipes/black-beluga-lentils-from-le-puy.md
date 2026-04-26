@@ -21,6 +21,28 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** lentils, vegetarian, weeknight
+
+## Ingredients
+
+- black beluga lentils (1.5 pint glass for 6 people; 1 pint for 4)
+- onion
+- carrot
+- garlic
+- sweet red pepper
+- 2 tomatoes, grated
+- olive oil
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Black Beluga Lentils (Le Puy)](../assets/recipes/black-beluga-lentils-from-le-puy.svg)
 
 ## Steps

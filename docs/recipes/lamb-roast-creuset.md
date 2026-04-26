@@ -23,6 +23,29 @@ ingredients:
   - Salt and pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** medium
+- **Total time:** 150 min
+- **Servings:** 4
+- **Tags:** lamb, creuset, roast
+
+## Ingredients
+
+- 1.5 kg lamb sirloin, cut into 8 pieces
+- Lots of garlic
+- Fresh rosemary
+- Bay leaves
+- Baby potatoes
+- 2 onions, quartered
+- Beef stock
+- Half a bottle of red wine
+- Olive oil
+- Salt and pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Season lamb pieces with salt and pepper.

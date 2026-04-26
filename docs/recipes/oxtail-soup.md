@@ -12,6 +12,18 @@ ingredients:
   - oxtail (rabo de vaca) or toro
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** medium
+- **Tags:** soup, stew
+
+## Ingredients
+
+- oxtail (rabo de vaca) or toro
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Oxtail Soup](../assets/recipes/oxtail-soup.svg)
 
 ## Steps

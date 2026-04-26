@@ -14,6 +14,22 @@ ingredients:
   - (dressing not specified)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 35 min
+- **Servings:** 6
+- **Tags:** salad, make-ahead
+
+## Ingredients
+
+- potatoes
+- green onions
+- (dressing not specified)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Potato Salad](../assets/recipes/potato-salad.svg)
 
 ## Steps

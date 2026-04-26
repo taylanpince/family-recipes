@@ -15,6 +15,22 @@ ingredients:
   - bulgur rice
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 50 min
+- **Servings:** 4
+- **Tags:** weeknight, pantry, vegetarian, family
+
+## Ingredients
+
+- lentils
+- bulgur rice
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Notes
 
 - Logged from dinner note.

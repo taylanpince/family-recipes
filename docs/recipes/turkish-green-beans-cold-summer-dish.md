@@ -23,6 +23,30 @@ ingredients:
   - water (as needed)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** turkish, stew, vegetarian, make-ahead
+
+## Ingredients
+
+- green beans
+- onions
+- olive oil
+- sugar (1 tsp)
+- 2 tomatoes (grated)
+- carrots
+- red peppers
+- salt
+- black pepper
+- water (as needed)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Turkish Green Beans (Cold Summer Dish)](../assets/recipes/turkish-green-beans-cold-summer-dish.svg)
 
 ## Steps

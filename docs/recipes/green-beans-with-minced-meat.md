@@ -21,6 +21,29 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 80 min
+- **Servings:** 6
+- **Tags:** stew, turkish, family
+
+## Ingredients
+
+- green beans
+- 500 g minced meat
+- 1 onion, minced
+- 2 sweet red peppers, diced small
+- 2 carrots, diced
+- 3 tomatoes, grated
+- olive oil
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Green Beans with Minced Meat](../assets/recipes/green-beans-with-minced-meat.svg)
 
 ## Steps

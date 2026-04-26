@@ -19,6 +19,26 @@ ingredients:
   - red wine (optional)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 195 min
+- **Servings:** 6
+- **Tags:** stew, braise, family
+
+## Ingredients
+
+- beef cubes
+- olive oil
+- garlic (lots)
+- oregano
+- black pepper
+- grated tomato (or a little water)
+- red wine (optional)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Beef Stew with Oregano](../assets/recipes/beef-stew-with-oregano.svg)
 
 ## Steps

@@ -24,6 +24,31 @@ ingredients:
   - Celery stalk (optional)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** turkish
+- **Difficulty:** easy
+- **Total time:** 90 min
+- **Servings:** 6
+- **Tags:** soup, turkish, lentils, anneanne
+
+## Ingredients
+
+- 2 cups red lentils
+- 2 onions
+- 2–3 carrots
+- 2 potatoes
+- 2 tbsp flour
+- Tomato paste
+- Olive oil
+- Hot water, enough to cover
+- Meat stock
+- Cumin and other spices to taste
+- Celery stalk (optional)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Rinse red lentils and soak in water for 30 minutes.

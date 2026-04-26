@@ -20,6 +20,28 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 45 min
+- **Servings:** 6
+- **Tags:** soup, turkish, pressure-cooker
+
+## Ingredients
+
+- 1.5 pint glasses red lentils
+- 1 carrot
+- 1 big onion
+- 1–2 cloves garlic
+- 2 tomatoes
+- 1 leek (optional)
+- water (about 6 soup bowls)
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Red Lentil Soup](../assets/recipes/red-lentil-soup.svg)
 
 ## Steps

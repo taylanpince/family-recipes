@@ -19,6 +19,27 @@ ingredients:
   - add-ins: blueberries / banana / walnuts / cinnamon / raisins
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 20 min
+- **Servings:** 3
+- **Tags:** breakfast, kid-friendly
+
+## Ingredients
+
+- 1 egg
+- 1 cup flour
+- 1 cup milk
+- 2 tbsp melted butter
+- 1/2 tbsp sugar
+- 1 tsp baking powder
+- pinch of salt (optional)
+- add-ins: blueberries / banana / walnuts / cinnamon / raisins
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Pancakes](../assets/recipes/pancakes.svg)
 
 ## Steps

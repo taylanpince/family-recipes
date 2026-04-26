@@ -18,6 +18,26 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 35 min
+- **Servings:** 4
+- **Tags:** weeknight, turkish, pantry
+
+## Ingredients
+
+- bulgur
+- onion
+- tomato paste
+- stock or water
+- olive oil or butter
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Bulgur Pilav](../assets/recipes/bulgur-pilav.svg)
 
 ## Steps

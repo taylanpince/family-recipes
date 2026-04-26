@@ -27,6 +27,34 @@ ingredients:
   - ½ cup cilantro or scallions, minced
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** chinese
+- **Difficulty:** easy
+- **Total time:** 30 min
+- **Servings:** 4
+- **Tags:** rice, quick, vegetarian
+
+## Ingredients
+
+- 3 tbsp neutral oil (canola or grapeseed)
+- 1 medium onion, roughly chopped
+- 1 red bell pepper, roughly chopped
+- 2 carrots, finely minced
+- 1 cup peas (defrost if frozen)
+- 1 tbsp garlic, minced
+- 1 tbsp ginger, minced
+- 3–4 cups cooked white rice, cooled
+- 2 eggs, lightly beaten
+- ¼ cup Shaoxing wine (or dry sherry, or water)
+- 2 tbsp soy sauce
+- 1 tbsp sesame oil
+- Salt and black pepper
+- ½ cup cilantro or scallions, minced
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Heat 1 tbsp oil in a wok or large skillet over high heat. Add onion, pepper, and carrots. Cook, stirring occasionally, until softened and starting to brown, 5–10 minutes. Remove to a bowl with a slotted spoon.

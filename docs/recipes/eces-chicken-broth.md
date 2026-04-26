@@ -22,6 +22,28 @@ ingredients:
   - 2.8 L cold water (about 3 quarts), plus enough to cover by ~2.5 cm
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 210 min
+- **Servings:** 8
+- **Tags:** soup, stock, make-ahead, freezer-friendly
+
+## Ingredients
+
+- 1–1.2 kg whole chicken or parts
+- 1 medium white/yellow onion, peeled and halved
+- 5 cm knob ginger, peeled and halved
+- 2 whole garlic cloves, peeled
+- 2 green onion stalks
+- 2 medium carrots, unpeeled, sliced into medium rounds
+- sea salt
+- black pepper
+- 2.8 L cold water (about 3 quarts), plus enough to cover by ~2.5 cm
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Ece’s Chicken Broth](../assets/recipes/eces-chicken-broth.svg)
 
 ## Steps

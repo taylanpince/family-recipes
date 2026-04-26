@@ -18,6 +18,26 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 40 min
+- **Servings:** 4
+- **Tags:** mezze, turkish, vegetarian
+
+## Ingredients
+
+- eggplants
+- yogurt
+- garlic
+- parsley
+- olive oil
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Turkish Eggplant Salad](../assets/recipes/turkish-eggplant-salad.svg)
 
 ## Steps

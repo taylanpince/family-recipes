@@ -17,6 +17,25 @@ ingredients:
   - splash of water
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** oven, family
+
+## Ingredients
+
+- potatoes
+- olive oil
+- meatballs
+- tomatoes (thick slices)
+- red peppers
+- splash of water
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Meatballs and Potatoes in the Oven](../assets/recipes/meatballs-and-potatoes-in-oven.svg)
 
 ## Steps

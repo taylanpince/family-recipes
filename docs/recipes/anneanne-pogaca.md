@@ -24,6 +24,31 @@ ingredients:
   - Nigella seeds (çörekotu), for topping
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** turkish
+- **Difficulty:** medium
+- **Total time:** 120 min
+- **Servings:** 12
+- **Tags:** baking, turkish, pastry, anneanne
+
+## Ingredients
+
+- ½ block (≈ 1 cup) butter, room temperature
+- 1 cup yogurt
+- ½ cup olive oil
+- 2 egg whites
+- 2 egg yolks
+- 1 tsp salt
+- 3 cups flour
+- 1 tsp baking powder
+- ½ cup fresh dill, finely chopped
+- 1 block white cheese (beyaz peynir / feta), grated
+- Nigella seeds (çörekotu), for topping
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Leave butter at room temperature for 1 hour until very soft.

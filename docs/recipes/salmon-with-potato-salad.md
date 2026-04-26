@@ -14,6 +14,21 @@ ingredients:
   - potato salad
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 40 min
+- **Servings:** 2
+- **Tags:** weeknight, fish, family
+
+## Ingredients
+
+- salmon
+- potato salad
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Notes
 
 - Logged from dinner note.

@@ -22,6 +22,29 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 4
+- **Tags:** stew, pressure-cooker, family
+
+## Ingredients
+
+- beef cubes
+- olive oil
+- onion (grated)
+- carrots (chopped)
+- tomatoes (grated)
+- stock or water (as needed)
+- frozen green peas (1 pack)
+- potatoes (optional)
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Beef Stew with Green Peas](../assets/recipes/beef-stew-with-green-peas.svg)
 
 ## Steps

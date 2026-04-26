@@ -17,6 +17,24 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 50 min
+- **Servings:** 4
+- **Tags:** fish, oven, weeknight
+
+## Ingredients
+
+- 1–2 whole seabass (lubina), ~1.2–1.5 kg each
+- olive oil
+- red wine vinegar or sherry vinegar
+- 2 cloves garlic, thinly sliced
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Lubina (Seabass)](../assets/recipes/lubina-seabass.svg)
 
 ## Steps

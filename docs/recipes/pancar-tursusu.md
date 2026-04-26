@@ -19,6 +19,26 @@ ingredients:
   - Water (enough to cover + brine)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** turkish
+- **Difficulty:** easy
+- **Total time:** 2940 min
+- **Servings:** 1
+- **Tags:** pickles, turkish, fermented, make-ahead
+
+## Ingredients
+
+- 4 beets
+- 2 tbsp salt
+- 4–5 cloves garlic, crushed
+- 1 tsp sugar
+- 1 coffee cup (~60ml) apple cider or grape vinegar (üzüm sirkesi)
+- Water (enough to cover + brine)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Scrub beets thoroughly.

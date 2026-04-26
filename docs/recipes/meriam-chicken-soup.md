@@ -21,6 +21,27 @@ ingredients:
   - water (~0.5 L, to the pressure cooker mark)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** soup, chicken, pressure-cooker, family
+
+## Ingredients
+
+- 3 chicken carcasses (cleaned; no skin/fat)
+- 1 big onion (cut in half)
+- 2 carrots (peeled)
+- 2 leeks (cut into 3)
+- ginger (2 thumb-size pieces)
+- 1 whole garlic (peeled)
+- 2 tsp salt
+- water (~0.5 L, to the pressure cooker mark)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Meriam Chicken Soup](../assets/recipes/meriam-chicken-soup.svg)
 
 ## Steps

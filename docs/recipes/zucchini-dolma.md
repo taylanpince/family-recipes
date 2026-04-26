@@ -22,6 +22,30 @@ ingredients:
   - water (or tomato-water mix for cooking)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** medium
+- **Total time:** 70 min
+- **Servings:** 4
+- **Tags:** turkish, stuffed, family
+
+## Ingredients
+
+- 6–8 zucchinis
+- 500 g ground beef (or chicken/turkey)
+- 2 tbsp rice (or bulgur)
+- 1 onion, finely grated
+- parsley, finely chopped
+- 2–3 tomatoes, grated
+- olive oil
+- black pepper
+- salt
+- water (or tomato-water mix for cooking)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Zucchini Dolma](../assets/recipes/zucchini-dolma.svg)
 
 ## Steps

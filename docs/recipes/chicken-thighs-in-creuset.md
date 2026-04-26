@@ -21,6 +21,28 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 135 min
+- **Servings:** 4
+- **Tags:** chicken, braise, family
+
+## Ingredients
+
+- 10–12 boneless chicken thighs
+- 1 onion, sliced into large circles
+- 2 tbsp brown sugar
+- 2 tbsp paprika
+- 1 clove garlic, crushed
+- juice of 1/2 lemon
+- olive oil
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Chicken Thighs in Creuset](../assets/recipes/chicken-thighs-in-creuset.svg)
 
 ## Steps

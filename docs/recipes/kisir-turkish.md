@@ -31,6 +31,38 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 45 min
+- **Servings:** 6
+- **Tags:** salad, turkish, mezze, vegetarian
+
+## Ingredients
+
+- 2 cups fine bulgur
+- boiling water (enough to hydrate bulgur)
+- 1 onion
+- green onions (6–7)
+- parsley (1 bunch)
+- dill
+- mint
+- 2 medium tomatoes
+- 1–2 green bell peppers
+- 1 cucumber
+- 1–2 lemons (to taste)
+- paprika
+- black pepper
+- cumin (a little)
+- ~1/2 cup olive oil
+- 1 tbsp pepper-tomato mix (optional)
+- tomato paste
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Kısır](../assets/recipes/kisir-turkish.svg)
 
 ## Steps

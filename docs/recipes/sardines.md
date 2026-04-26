@@ -16,6 +16,24 @@ ingredients:
   - olive oil
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 90 min
+- **Servings:** 4
+- **Tags:** fish, marinade
+
+## Ingredients
+
+- sardines
+- onions
+- parsley
+- black pepper
+- olive oil
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Sardines](../assets/recipes/sardines.svg)
 
 ## Steps

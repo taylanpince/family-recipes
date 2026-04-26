@@ -26,6 +26,32 @@ ingredients:
   - 2 tbsp Dijon mustard
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** greek
+- **Difficulty:** medium
+- **Total time:** 135 min
+- **Servings:** 6
+- **Tags:** lamb, creuset, braised, greek
+
+## Ingredients
+
+- 6 bone-in lamb loin chops
+- Kosher salt and black pepper
+- 2 tbsp olive oil
+- ¼ cup flour (or arrowroot starch for gluten-free)
+- Pinch of cayenne pepper
+- 1 yellow onion, diced
+- 4 cloves garlic, smashed
+- 1 cup chicken broth
+- ½ cup red wine
+- 1 tsp dried oregano
+- 1 bay leaf
+- 2 tbsp Dijon mustard
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Preheat oven to 150°C (300°F).

@@ -49,6 +49,12 @@ ingredients:
 
 Use these headings (lightly enforced by convention only):
 
-- `## Ingredients` (optional if captured in frontmatter)
+- `## Ingredients` (optional in the handwritten body if captured in frontmatter)
 - `## Steps`
 - `## Notes` (substitutions, variations, etc.)
+
+## Published page rendering
+
+- The script `scripts/render_recipe_metadata.py` renders visible recipe metadata from frontmatter into each recipe page.
+- That generated block includes basic details plus the `ingredients` list.
+- Do not hand-edit the generated metadata block inside recipe files, rerun the script instead after frontmatter changes.

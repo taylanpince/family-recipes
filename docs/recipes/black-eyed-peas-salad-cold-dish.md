@@ -19,6 +19,26 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** salad, turkish, vegetarian, make-ahead
+
+## Ingredients
+
+- 500 g black-eyed peas
+- parsley (lots)
+- 4–5 green onions
+- olive oil (lots)
+- apple vinegar
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Black-Eyed Peas Salad (Cold)](../assets/recipes/black-eyed-peas-salad-cold-dish.svg)
 
 ## Steps

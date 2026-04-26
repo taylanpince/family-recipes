@@ -22,6 +22,30 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 45 min
+- **Servings:** 6
+- **Tags:** meatballs, family
+
+## Ingredients
+
+- 1 kg ground beef
+- 1 egg
+- 6 tbsp yogurt
+- 1 onion, grated
+- lots of parsley, very finely chopped
+- 3 tbsp breadcrumbs
+- 3 tsp black pepper
+- 3 tsp cumin
+- 1 tsp sweet red pepper (not spicy)
+- olive oil
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Ekin Meatballs](../assets/recipes/ekin-meatballs.svg)
 
 ## Steps

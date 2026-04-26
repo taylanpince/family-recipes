@@ -23,6 +23,30 @@ ingredients:
   - water or broth (a bit)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 6
+- **Tags:** turkish, vegetarian, make-ahead, pressure-cooker
+
+## Ingredients
+
+- pinto beans (soak overnight; note mentions 2 pints)
+- 1 onion (grated)
+- 1 carrot (chopped)
+- 1 garlic (diced)
+- 1 red pepper (chopped)
+- 4 tomatoes (grated)
+- 1 tsp brown sugar
+- salt (tiny bit)
+- olive oil
+- water or broth (a bit)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Barbun (Pinto) Beans (Cold Summer Dish)](../assets/recipes/barbun-pinto-beans-cold-summer-dish.svg)
 
 ## Steps

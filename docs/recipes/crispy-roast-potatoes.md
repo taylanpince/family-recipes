@@ -23,6 +23,28 @@ ingredients:
   - Fresh parsley, chopped (to finish)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 75 min
+- **Servings:** 4
+- **Tags:** potatoes, sides, roasted, kenji
+
+## Ingredients
+
+- 4 lbs russet or Yukon Gold potatoes, cut into large chunks
+- 2 quarts water
+- 1 oz (≈ 2 tbsp) salt
+- ½ tsp baking soda
+- 5 tbsp extra virgin olive oil
+- 3 cloves garlic, minced or pressed
+- Handful of fresh rosemary, chopped
+- Salt and fresh cracked pepper
+- Fresh parsley, chopped (to finish)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Bring 2 quarts of water to a boil. Add salt and baking soda.

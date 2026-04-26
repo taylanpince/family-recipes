@@ -23,6 +23,29 @@ ingredients:
   - Crusty bread to serve
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 50 min
+- **Servings:** 4
+- **Tags:** seafood, clams, quick
+
+## Ingredients
+
+- 4 tbsp unsalted butter
+- 2 tbsp olive oil
+- 1 small shallot, finely chopped
+- 4–5 cloves garlic, minced
+- Pinch of red pepper flakes (optional)
+- 1 cup dry white wine (Pinot Grigio, Sauvignon Blanc, or Vinho Verde)
+- 1–1.5 kg fresh littleneck or Manila clams, cleaned
+- Juice of 1 lemon
+- Fresh Italian parsley, finely chopped
+- Crusty bread to serve
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. 30 minutes before cooking, soak clams in a large bowl of cold salted water to purge sand. Scrub shells with a brush. Discard any that won't close.

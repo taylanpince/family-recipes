@@ -25,6 +25,32 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 90 min
+- **Servings:** 8
+- **Tags:** soup, lentils, family
+
+## Ingredients
+
+- 2 cups red lentils (wash + soak ~30 min)
+- 2 onions, diced
+- 2–3 carrots, diced
+- 2 tbsp flour
+- 1 tbsp tomato paste
+- 2 potatoes, boiled until tender
+- 1 celery stalk, diced very small
+- 2 cups meat stock
+- 1 tsp ground cumin
+- olive oil
+- water (enough to cover)
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Grandma’s Lentil Soup](../assets/recipes/grandmas-lentil-soup.svg)
 
 ## Steps

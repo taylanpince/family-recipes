@@ -25,6 +25,32 @@ ingredients:
   - Pappardelle pasta
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** italian
+- **Difficulty:** medium
+- **Total time:** 180 min
+- **Servings:** 4
+- **Tags:** pasta, beef, creuset, ragu
+
+## Ingredients
+
+- Beef (braising cut — chuck or short rib work well)
+- Olive oil
+- Salt
+- 4–5 cloves garlic, chopped
+- 1 onion, chopped
+- 2 carrots, chopped
+- 2 stalks celery, chopped
+- 1 cup red wine
+- 2 cans whole or crushed tomatoes
+- 1.5–2 cups meat stock (enough to cover)
+- Parmesan, shredded (to finish)
+- Pappardelle pasta
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Pat beef dry and season generously with salt.

@@ -20,6 +20,28 @@ ingredients:
   - water (a bit, for cooking)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** medium
+- **Total time:** 80 min
+- **Servings:** 6
+- **Tags:** turkish, stuffed, family
+
+## Ingredients
+
+- swiss chard leaves
+- 500 g ground beef
+- 2–3 tomatoes, grated
+- bulgur (about 1/2 pint glass)
+- 1 onion, grated
+- black pepper
+- salt
+- water (a bit, for cooking)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Swiss Chard Dolma](../assets/recipes/swiss-chard-dolma.svg)
 
 ## Steps

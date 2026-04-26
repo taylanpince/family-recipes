@@ -20,6 +20,27 @@ ingredients:
   - salt
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 15 min
+- **Servings:** 4
+- **Tags:** salad, turkish, vegetarian, quick
+
+## Ingredients
+
+- tomatoes
+- cucumbers
+- onion
+- parsley
+- lemon juice
+- olive oil
+- salt
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Turkish Shepherd Salad (Çoban Salatası)](../assets/recipes/turkish-shepherd-salad.svg)
 
 ## Steps

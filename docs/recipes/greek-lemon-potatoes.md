@@ -24,6 +24,29 @@ ingredients:
   - ½ cup water
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** greek
+- **Difficulty:** easy
+- **Total time:** 90 min
+- **Servings:** 6
+- **Tags:** potatoes, sides, greek, vegan, gluten-free
+
+## Ingredients
+
+- 2 lbs (900g) Yukon Gold potatoes, cut into 1-inch wedges
+- 4 cloves garlic, coarsely chopped
+- ½ cup freshly squeezed lemon juice
+- ⅓ cup olive oil (Greek if possible)
+- ¼ cup yellow mustard
+- 2 tsp dried oregano
+- 1 tsp kosher salt
+- Fresh ground black pepper
+- ½ cup water
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Preheat oven to 220°C (425°F). Grease a 9×13-inch baking dish.

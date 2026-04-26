@@ -14,6 +14,22 @@ ingredients:
   - white rice
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 60 min
+- **Servings:** 4
+- **Tags:** weeknight, pantry, family
+
+## Ingredients
+
+- chickpeas
+- white rice
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Notes
 
 - Logged from dinner note.

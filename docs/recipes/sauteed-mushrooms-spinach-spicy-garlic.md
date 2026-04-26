@@ -24,6 +24,30 @@ ingredients:
   - ½ tsp sugar
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** korean-inspired
+- **Difficulty:** easy
+- **Total time:** 35 min
+- **Servings:** 4
+- **Tags:** vegetarian, side, mushrooms, spinach
+
+## Ingredients
+
+- 4 cups sliced mushrooms (shiitake or portobello)
+- 4 cups loosely packed baby spinach
+- 2 tbsp olive oil
+- 2 tsp sesame seeds
+- 1 tsp minced garlic
+- ¼ cup scallions, chopped
+- 3 tbsp low-sodium soy sauce
+- 1 tbsp sesame oil
+- 1 tsp crushed red pepper flakes
+- ½ tsp sugar
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ## Steps
 
 1. Toast sesame seeds in a dry pan over medium-low heat until golden, moving frequently. Transfer to a cutting board and crush with a heavy knife.

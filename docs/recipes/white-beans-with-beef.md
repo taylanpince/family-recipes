@@ -24,6 +24,31 @@ ingredients:
   - water (enough to cover)
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Cuisine:** Turkish
+- **Difficulty:** easy
+- **Total time:** 70 min
+- **Servings:** 6
+- **Tags:** stew, turkish, pressure-cooker, family
+
+## Ingredients
+
+- 1 pint glass dried white beans (soaked overnight)
+- 500 g beef cubes
+- 1 onion, diced
+- 2 cloves garlic, diced
+- 1 red pepper, diced
+- 2–3 tomatoes, grated
+- 1 tbsp tomato paste
+- olive oil
+- salt
+- black pepper
+- water (enough to cover)
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![White Beans with Beef](../assets/recipes/white-beans-with-beef.svg)
 
 ## Steps

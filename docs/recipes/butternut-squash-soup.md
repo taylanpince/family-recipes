@@ -20,6 +20,27 @@ ingredients:
   - black pepper
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 25 min
+- **Servings:** 6
+- **Tags:** soup, pressure-cooker, weeknight
+
+## Ingredients
+
+- butternut squash
+- chicken stock
+- carrots
+- 1 onion
+- 1 clove garlic
+- ginger (about 1 thumb, or less)
+- salt
+- black pepper
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Butternut Squash Soup](../assets/recipes/butternut-squash-soup.svg)
 
 ## Steps

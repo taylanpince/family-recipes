@@ -20,6 +20,28 @@ ingredients:
   - 1 cup blueberries
 ---
 
+<!-- GENERATED_RECIPE_METADATA_START -->
+## Recipe details
+
+- **Difficulty:** easy
+- **Total time:** 20 min
+- **Servings:** 3
+- **Tags:** breakfast, kid-friendly
+
+## Ingredients
+
+- 1 egg
+- 1 cup flour
+- 1 cup milk
+- 2 tbsp melted butter
+- 1/2 tbsp sugar
+- 1 tsp baking powder ("1 pack")
+- pinch of salt
+- a squeeze of lemon (into the baking powder)
+- 1 cup blueberries
+
+<!-- GENERATED_RECIPE_METADATA_END -->
+
 ![Blueberry Pancakes (Version 2)](../assets/recipes/blueberry-pancakes-version-2.svg)
 
 ## Steps
