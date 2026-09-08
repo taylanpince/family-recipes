@@ -1,7 +1,7 @@
 ---
 slug: grandmas-lentil-soup
 title: Grandma’s Lentil Soup
-cuisine: ""
+cuisine: Turkish
 difficulty: easy
 time_total_min: 90
 servings: 8
@@ -28,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 90 min
 - **Servings:** 8

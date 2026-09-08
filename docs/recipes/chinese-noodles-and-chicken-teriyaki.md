@@ -1,7 +1,7 @@
 ---
 slug: chinese-noodles-and-chicken-teriyaki
 title: Chinese Noodles and Chicken Teriyaki
-cuisine: ""
+cuisine: Chinese
 difficulty: easy
 time_total_min: 0
 servings: 0
@@ -20,6 +20,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Chinese
 - **Difficulty:** easy
 - **Tags:** weeknight
 

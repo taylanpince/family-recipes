@@ -1,7 +1,7 @@
 ---
 slug: sauteed-mushrooms-spinach-spicy-garlic
 title: Sautéed Mushrooms & Spinach with Spicy Garlic Sauce
-cuisine: korean-inspired
+cuisine: Korean-inspired
 difficulty: easy
 time_total_min: 35
 servings: 4
@@ -27,7 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** korean-inspired
+- **Cuisine:** Korean-inspired
 - **Difficulty:** easy
 - **Total time:** 35 min
 - **Servings:** 4

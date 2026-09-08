@@ -1,7 +1,7 @@
 ---
 slug: eces-chicken-broth
 title: Ece’s Chicken Broth
-cuisine: ""
+cuisine: Turkish
 difficulty: easy
 time_total_min: 210
 servings: 8
@@ -25,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 210 min
 - **Servings:** 8

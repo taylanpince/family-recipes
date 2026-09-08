@@ -1,7 +1,7 @@
 ---
 slug: beef-stew-with-oregano
 title: Beef Stew with Oregano
-cuisine: ""
+cuisine: Greek
 difficulty: easy
 time_total_min: 195
 servings: 6
@@ -22,6 +22,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Greek
 - **Difficulty:** easy
 - **Total time:** 195 min
 - **Servings:** 6

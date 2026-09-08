@@ -1,7 +1,7 @@
 ---
 slug: chicken-thighs-in-creuset
 title: Chicken Thighs in Creuset
-cuisine: ""
+cuisine: French
 difficulty: easy
 time_total_min: 135
 servings: 4
@@ -24,6 +24,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 135 min
 - **Servings:** 4

@@ -1,7 +1,7 @@
 ---
 slug: lamb-roast-creuset
 title: Lamb Roast in Creuset
-cuisine: ""
+cuisine: French
 difficulty: medium
 time_total_min: 150
 servings: 4
@@ -26,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** French
 - **Difficulty:** medium
 - **Total time:** 150 min
 - **Servings:** 4

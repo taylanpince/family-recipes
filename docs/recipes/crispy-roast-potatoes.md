@@ -1,7 +1,7 @@
 ---
 slug: crispy-roast-potatoes
 title: Extra Crispy Roast Potatoes
-cuisine: ""
+cuisine: American
 difficulty: easy
 time_total_min: 75
 servings: 4
@@ -26,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 75 min
 - **Servings:** 4

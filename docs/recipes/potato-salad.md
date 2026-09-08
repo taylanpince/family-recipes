@@ -1,7 +1,7 @@
 ---
 slug: potato-salad
 title: Potato Salad
-cuisine: ""
+cuisine: American
 difficulty: easy
 time_total_min: 35
 servings: 6
@@ -21,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 35 min
 - **Servings:** 6

@@ -1,7 +1,7 @@
 ---
 slug: blueberry-pancakes-version-2
 title: Blueberry Pancakes (Version 2)
-cuisine: ""
+cuisine: American
 difficulty: easy
 time_total_min: 20
 servings: 3
@@ -27,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 20 min
 - **Servings:** 3

@@ -1,7 +1,7 @@
 ---
 slug: ekin-meatballs
 title: Ekin Meatballs
-cuisine: ""
+cuisine: Turkish
 difficulty: easy
 time_total_min: 45
 servings: 6
@@ -25,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 45 min
 - **Servings:** 6

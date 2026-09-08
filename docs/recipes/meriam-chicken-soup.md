@@ -1,7 +1,7 @@
 ---
 slug: meriam-chicken-soup
 title: Meriam Chicken Soup
-cuisine: ""
+cuisine: Family
 difficulty: easy
 time_total_min: 60
 servings: 6
@@ -24,6 +24,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 60 min
 - **Servings:** 6

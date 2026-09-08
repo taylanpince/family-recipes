@@ -1,7 +1,7 @@
 ---
 slug: salmon-with-potato-salad
 title: Salmon with Potato Salad
-cuisine: ""
+cuisine: Family
 difficulty: easy
 time_total_min: 40
 servings: 2
@@ -21,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 40 min
 - **Servings:** 2

@@ -1,7 +1,7 @@
 ---
 slug: one-pot-greek-braised-lamb
 title: One-Pot Greek Braised Lamb
-cuisine: greek
+cuisine: Greek
 difficulty: medium
 time_total_min: 135
 servings: 6
@@ -29,7 +29,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** greek
+- **Cuisine:** Greek
 - **Difficulty:** medium
 - **Total time:** 135 min
 - **Servings:** 6

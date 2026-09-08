@@ -1,7 +1,7 @@
 ---
 slug: anneanne-pogaca
 title: Anneanne's Poğaça (Cheese & Dill Rolls)
-cuisine: turkish
+cuisine: Turkish
 difficulty: medium
 time_total_min: 120
 servings: 12
@@ -27,7 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** turkish
+- **Cuisine:** Turkish
 - **Difficulty:** medium
 - **Total time:** 120 min
 - **Servings:** 12

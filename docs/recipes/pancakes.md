@@ -1,7 +1,7 @@
 ---
 slug: pancakes
 title: Pancakes
-cuisine: ""
+cuisine: American
 difficulty: easy
 time_total_min: 20
 servings: 3
@@ -26,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 20 min
 - **Servings:** 3

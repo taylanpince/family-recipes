@@ -1,7 +1,7 @@
 ---
 slug: lubina-seabass
 title: Lubina (Seabass)
-cuisine: ""
+cuisine: Spanish
 difficulty: easy
 time_total_min: 50
 servings: 4
@@ -20,6 +20,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Spanish
 - **Difficulty:** easy
 - **Total time:** 50 min
 - **Servings:** 4

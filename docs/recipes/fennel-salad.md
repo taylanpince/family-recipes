@@ -1,7 +1,7 @@
 ---
 slug: fennel-salad
 title: Fennel Salad
-cuisine: ""
+cuisine: Italian
 difficulty: easy
 time_total_min: 10
 servings: 4
@@ -25,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Italian
 - **Difficulty:** easy
 - **Total time:** 10 min
 - **Servings:** 4

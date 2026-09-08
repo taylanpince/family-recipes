@@ -1,7 +1,7 @@
 ---
 slug: black-beluga-lentils-from-le-puy
 title: Black Beluga Lentils (Le Puy)
-cuisine: ""
+cuisine: French
 difficulty: easy
 time_total_min: 60
 servings: 6
@@ -28,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 60 min
 - **Servings:** 6

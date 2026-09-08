@@ -1,7 +1,7 @@
 ---
 slug: steamed-clams-white-wine-garlic
 title: Steamed Clams with White Wine and Garlic
-cuisine: ""
+cuisine: French
 difficulty: easy
 time_total_min: 50
 servings: 4
@@ -26,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 50 min
 - **Servings:** 4

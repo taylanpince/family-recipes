@@ -1,7 +1,7 @@
 ---
 slug: meatballs-and-potatoes-in-oven
 title: Meatballs and Potatoes in the Oven
-cuisine: ""
+cuisine: Turkish
 difficulty: easy
 time_total_min: 60
 servings: 6
@@ -20,6 +20,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min
 - **Servings:** 6

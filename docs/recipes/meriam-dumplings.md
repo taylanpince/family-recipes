@@ -1,7 +1,7 @@
 ---
 slug: meriam-dumplings
 title: Meriam Dumplings
-cuisine: ""
+cuisine: Family
 difficulty: medium
 time_total_min: 45
 servings: 4
@@ -21,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Family
 - **Difficulty:** medium
 - **Total time:** 45 min
 - **Servings:** 4

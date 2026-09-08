@@ -1,7 +1,7 @@
 ---
 slug: greek-lemon-potatoes
 title: Greek Lemon Potatoes
-cuisine: greek
+cuisine: Greek
 difficulty: easy
 time_total_min: 90
 servings: 6
@@ -27,7 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** greek
+- **Cuisine:** Greek
 - **Difficulty:** easy
 - **Total time:** 90 min
 - **Servings:** 6

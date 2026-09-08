@@ -1,7 +1,7 @@
 ---
 slug: beef-stew-with-green-peas
 title: Beef Stew with Green Peas
-cuisine: ""
+cuisine: Turkish
 difficulty: easy
 time_total_min: 60
 servings: 4
@@ -29,6 +29,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min
 - **Servings:** 4

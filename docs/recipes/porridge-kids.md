@@ -1,7 +1,7 @@
 ---
 slug: porridge-kids
 title: Porridge (Kids)
-cuisine: ""
+cuisine: Family
 difficulty: easy
 time_total_min: 15
 servings: 2
@@ -23,6 +23,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 15 min
 - **Servings:** 2

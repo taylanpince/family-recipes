@@ -1,7 +1,7 @@
 ---
 slug: pappardelle-ragu
 title: Pappardelle Ragù
-cuisine: italian
+cuisine: Italian
 difficulty: medium
 time_total_min: 180
 servings: 4
@@ -32,7 +32,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** italian
+- **Cuisine:** Italian
 - **Difficulty:** medium
 - **Total time:** 180 min
 - **Servings:** 4

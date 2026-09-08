@@ -1,7 +1,7 @@
 ---
 slug: fried-rice
 title: Fried Rice
-cuisine: chinese
+cuisine: Chinese
 difficulty: easy
 time_total_min: 30
 servings: 4
@@ -34,7 +34,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Cuisine:** chinese
+- **Cuisine:** Chinese
 - **Difficulty:** easy
 - **Total time:** 30 min
 - **Servings:** 4
