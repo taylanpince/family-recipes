@@ -1,5 +1,6 @@
 ---
 slug: turkish-shepherd-salad
+dish_type: salad
 title: Turkish Shepherd Salad (Çoban Salatası)
 cuisine: Turkish
 difficulty: easy
@@ -23,6 +24,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 15 min

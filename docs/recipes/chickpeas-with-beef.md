@@ -1,5 +1,6 @@
 ---
 slug: chickpeas-with-beef
+dish_type: protein
 title: Chickpeas with Beef
 cuisine: Turkish
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 90 min

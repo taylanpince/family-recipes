@@ -1,5 +1,6 @@
 ---
 slug: barbun-pinto-beans-cold-summer-dish
+dish_type: salad
 title: Barbun (Pinto) Beans (Cold Summer Dish)
 cuisine: Turkish
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min

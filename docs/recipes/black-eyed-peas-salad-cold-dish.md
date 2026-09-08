@@ -1,5 +1,6 @@
 ---
 slug: black-eyed-peas-salad-cold-dish
+dish_type: salad
 title: Black-Eyed Peas Salad (Cold)
 cuisine: Turkish
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min

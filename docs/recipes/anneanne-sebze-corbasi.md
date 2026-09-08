@@ -1,5 +1,6 @@
 ---
 slug: anneanne-sebze-corbasi
+dish_type: soup
 title: Anneanne's Sebze Çorbası (Vegetable Soup)
 cuisine: Turkish
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 90 min

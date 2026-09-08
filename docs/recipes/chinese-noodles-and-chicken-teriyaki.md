@@ -1,5 +1,6 @@
 ---
 slug: chinese-noodles-and-chicken-teriyaki
+dish_type: carb
 title: Chinese Noodles and Chicken Teriyaki
 cuisine: Chinese
 difficulty: easy
@@ -20,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** Chinese
 - **Difficulty:** easy
 - **Tags:** weeknight

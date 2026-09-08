@@ -1,5 +1,6 @@
 ---
 slug: chicken-thighs-in-creuset
+dish_type: protein
 title: Chicken Thighs in Creuset
 cuisine: French
 difficulty: easy
@@ -24,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 135 min

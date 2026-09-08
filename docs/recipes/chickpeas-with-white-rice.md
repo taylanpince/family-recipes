@@ -1,5 +1,6 @@
 ---
 slug: chickpeas-with-white-rice
+dish_type: protein
 title: Chickpeas with White Rice
 cuisine: Turkish
 difficulty: easy
@@ -17,6 +18,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min

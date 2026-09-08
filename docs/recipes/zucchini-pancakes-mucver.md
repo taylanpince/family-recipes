@@ -1,5 +1,6 @@
 ---
 slug: zucchini-pancakes-mucver
+dish_type: salad
 title: Zucchini Pancakes (Mücver)
 cuisine: Turkish
 difficulty: easy
@@ -32,6 +33,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 30 min

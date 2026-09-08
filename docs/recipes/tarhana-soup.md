@@ -1,5 +1,6 @@
 ---
 slug: tarhana-soup
+dish_type: soup
 title: Tarhana Soup
 cuisine: Turkish
 difficulty: easy
@@ -23,6 +24,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 55 min

@@ -1,5 +1,6 @@
 ---
 slug: menemen
+dish_type: breakfast
 title: Menemen
 cuisine: Turkish
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** breakfast
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 20 min

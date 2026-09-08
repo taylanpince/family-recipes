@@ -1,5 +1,6 @@
 ---
 slug: meriam-chicken-soup
+dish_type: soup
 title: Meriam Chicken Soup
 cuisine: Family
 difficulty: easy
@@ -24,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 60 min

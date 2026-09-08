@@ -1,5 +1,6 @@
 ---
 slug: lubina-seabass
+dish_type: protein
 title: Lubina (Seabass)
 cuisine: Spanish
 difficulty: easy
@@ -20,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Spanish
 - **Difficulty:** easy
 - **Total time:** 50 min

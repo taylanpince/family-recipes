@@ -1,5 +1,6 @@
 ---
 slug: anneanne-pogaca
+dish_type: breakfast
 title: Anneanne's Poğaça (Cheese & Dill Rolls)
 cuisine: Turkish
 difficulty: medium
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** breakfast
 - **Cuisine:** Turkish
 - **Difficulty:** medium
 - **Total time:** 120 min

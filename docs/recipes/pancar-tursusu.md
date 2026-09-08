@@ -1,5 +1,6 @@
 ---
 slug: pancar-tursusu
+dish_type: side
 title: Pancar Turşusu (Pickled Beets)
 cuisine: Turkish
 difficulty: easy
@@ -22,6 +23,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** side
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 2940 min

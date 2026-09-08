@@ -1,5 +1,6 @@
 ---
 slug: pancakes
+dish_type: breakfast
 title: Pancakes
 cuisine: American
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** breakfast
 - **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 20 min

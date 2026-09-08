@@ -1,5 +1,6 @@
 ---
 slug: oxtail-soup
+dish_type: soup
 title: Oxtail Soup
 cuisine: Family
 difficulty: medium
@@ -19,6 +20,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Family
 - **Difficulty:** medium
 - **Tags:** soup, stew

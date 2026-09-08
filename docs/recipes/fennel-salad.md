@@ -1,5 +1,6 @@
 ---
 slug: fennel-salad
+dish_type: salad
 title: Fennel Salad
 cuisine: Italian
 difficulty: easy
@@ -25,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Italian
 - **Difficulty:** easy
 - **Total time:** 10 min

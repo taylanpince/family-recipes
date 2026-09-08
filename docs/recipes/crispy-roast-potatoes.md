@@ -1,5 +1,6 @@
 ---
 slug: crispy-roast-potatoes
+dish_type: carb
 title: Extra Crispy Roast Potatoes
 cuisine: American
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 75 min

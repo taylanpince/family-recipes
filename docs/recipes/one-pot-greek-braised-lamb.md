@@ -1,5 +1,6 @@
 ---
 slug: one-pot-greek-braised-lamb
+dish_type: protein
 title: One-Pot Greek Braised Lamb
 cuisine: Greek
 difficulty: medium
@@ -29,6 +30,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Greek
 - **Difficulty:** medium
 - **Total time:** 135 min

@@ -1,5 +1,6 @@
 ---
 slug: salmon-with-potato-salad
+dish_type: protein
 title: Salmon with Potato Salad
 cuisine: Family
 difficulty: easy
@@ -21,6 +22,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 40 min

@@ -1,5 +1,6 @@
 ---
 slug: eces-chicken-broth
+dish_type: soup
 title: Ece’s Chicken Broth
 cuisine: Turkish
 difficulty: easy
@@ -25,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 210 min

@@ -1,5 +1,6 @@
 ---
 slug: sardines
+dish_type: protein
 title: Sardines
 cuisine: Turkish
 difficulty: easy
@@ -19,6 +20,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 90 min

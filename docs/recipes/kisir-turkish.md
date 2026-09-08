@@ -1,5 +1,6 @@
 ---
 slug: kisir-turkish
+dish_type: salad
 title: Kısır
 cuisine: Turkish
 difficulty: easy
@@ -38,6 +39,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** salad
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 45 min

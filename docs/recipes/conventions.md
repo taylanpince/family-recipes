@@ -17,6 +17,7 @@ Required:
 
 Recommended:
 
+- `dish_type`: one of `protein | carb | salad | soup | breakfast | side` - used by the weekly menu planner to compose nightly menus (1 protein + 1 carb + a salad)
 - `tags`: list of strings (e.g. `weeknight`, `kid-friendly`, `vegetarian`, `turkish`)
 - `cuisine`: string
 - `difficulty`: `easy|medium|hard`
