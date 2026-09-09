@@ -1,5 +1,6 @@
 ---
 slug: porridge-kids
+dish_type: breakfast
 title: Porridge (Kids)
 cuisine: Family
 difficulty: easy
@@ -23,6 +24,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** breakfast
 - **Cuisine:** Family
 - **Difficulty:** easy
 - **Total time:** 15 min

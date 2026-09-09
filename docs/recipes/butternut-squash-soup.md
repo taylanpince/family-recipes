@@ -1,5 +1,6 @@
 ---
 slug: butternut-squash-soup
+dish_type: soup
 title: Butternut Squash Soup
 cuisine: American
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 25 min

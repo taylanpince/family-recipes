@@ -1,5 +1,6 @@
 ---
 slug: lamb-roast-creuset
+dish_type: protein
 title: Lamb Roast in Creuset
 cuisine: French
 difficulty: medium
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** French
 - **Difficulty:** medium
 - **Total time:** 150 min

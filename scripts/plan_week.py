@@ -1,23 +1,30 @@
 #!/usr/bin/env python3
-"""Weekly menu builder.
+"""Weekly menu builder - composes nightly menus of protein + carb + salad.
 
-Picks dinners for a week from recipe frontmatter, avoiding recently-cooked
-recipes (reads log/cooked.csv), and writes a Markdown plan page under
-docs/menus/.
+House rule: each dinner is 1 protein dish, 1 carb/starch dish, and usually a
+salad next to it. The planner picks one recipe of each dish_type per night,
+combining them in different permutations across the week while avoiding
+anything cooked recently (reads log/cooked.csv).
 
 Usage:
   scripts/plan_week.py                          # plan week of next Monday
-  scripts/plan_week.py --days 5 --max-time 60   # only weeknight-friendly picks
+  scripts/plan_week.py --days 5                 # weeknight-only plan
   scripts/plan_week.py --start 2026-09-07       # plan a specific week
-  scripts/plan_week.py --seed 42                # reproducible shuffle
+  scripts/plan_week.py --seed 42                # reproducible plans
+  scripts/plan_week.py --no-salad               # skip the nightly salad
+  scripts/plan_week.py --carb-once              # never repeat a carb all week
 
 Options:
   --days N            number of dinners to plan (default 7)
-  --start DATE        Monday (any day works, week starts here) YYYY-MM-DD
+  --start DATE        week start date YYYY-MM-DD (default: next Monday)
+  --seed N            random seed for reproducible plans
+  --no-salad          omit the salad slot
+  --carb-once         use each carb recipe at most once across the week
+  --protein-once      use each protein recipe at most once across the week
   --max-time MIN      exclude recipes with time_total_min > MIN
   --exclude-tag TAG   exclude recipes with this tag (repeatable)
-  --include-tag TAG   require this tag on at least one pick (repeatable)
-  --seed N            random seed for reproducible plans
+  --include-dish T    require dish_type T on >=1 pick (repeatable)
+  --dish-types LIST   comma-separated slots, e.g. "protein,carb,salad,soup"
   --overwrite         replace an existing menu file for the same week
 """
 
@@ -27,6 +34,7 @@ import argparse
 import csv
 import random
 import re
+from collections import Counter, defaultdict
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -35,8 +43,8 @@ RECIPES_DIR = ROOT / "docs" / "recipes"
 LOG_PATH = ROOT / "log" / "cooked.csv"
 MENUS_DIR = ROOT / "docs" / "menus"
 IGNORE_FILES = {"index.md", "conventions.md", "_template.md"}
-DEFAULT_EXCLUDE_TAGS = ["breakfast", "pickles", "sides", "side", "stock", "pastry"]
 
+DEFAULT_SLOTS = ["protein", "carb", "salad"]
 DAY_NAMES = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 
@@ -48,15 +56,15 @@ def parse_frontmatter(path: Path) -> dict | None:
     if len(parts) < 3:
         return None
     fm = parts[1]
-    recipe = {"slug": path.stem}
+    recipe: dict = {"slug": path.stem}
     if m := re.search(r"^title:\s*(.+?)\s*$", fm, re.M):
         recipe["title"] = m.group(1).strip().strip('"')
+    if m := re.search(r"^dish_type:\s*(\S+)", fm, re.M):
+        recipe["dish_type"] = m.group(1).strip()
     if m := re.search(r"^cuisine:\s*(.+?)\s*$", fm, re.M):
         recipe["cuisine"] = m.group(1).strip().strip('"')
     if m := re.search(r"^time_total_min:\s*(\d+)", fm, re.M):
         recipe["time_total_min"] = int(m.group(1))
-    if m := re.search(r"^servings:\s*(\d+)", fm, re.M):
-        recipe["servings"] = int(m.group(1))
     tags = []
     if m := re.search(r"^tags:\s*$\n((?:\s+- .*\n)*)", fm, re.M):
         tags = [line.strip()[2:].strip() for line in m.group(1).splitlines() if line.strip().startswith("-")]
@@ -80,7 +88,7 @@ def load_recency() -> dict[str, date]:
     """slug -> most recent cooked date."""
     if not LOG_PATH.exists():
         return {}
-    out = {}
+    out: dict[str, date] = {}
     with LOG_PATH.open(encoding="utf-8") as f:
         for row in csv.DictReader(f):
             slug = (row.get("recipe_slug") or "").strip()
@@ -96,53 +104,97 @@ def load_recency() -> dict[str, date]:
     return out
 
 
-def score(recipe: dict, recency: dict[str, date], today: date) -> float:
-    """Lower is better. Recently-cooked recipes get a big penalty;
-    long recipes get a mild penalty so weeknights stay quick."""
-    s = 0.0
-    if last := recency.get(recipe["slug"]):
+def recency_penalty(slug: str, recency: dict[str, date], today: date) -> float:
+    """Big penalty for recently-cooked recipes so we rotate."""
+    if last := recency.get(slug):
         days_since = (today - last).days
         if days_since <= 7:
-            s += 1000
-        elif days_since <= 21:
-            s += 100
-        elif days_since <= 45:
-            s += 10
-    s += recipe.get("time_total_min", 0) * 0.1
-    return s
+            return 1000
+        if days_since <= 21:
+            return 100
+        if days_since <= 45:
+            return 10
+    return 0
 
 
-def pick_menu(
+def build_slot_pools(
     recipes: list[dict],
-    recency: dict[str, date],
-    days: int,
+    slots: list[str],
     max_time: int | None,
     exclude_tags: set[str],
-    include_tags: set[str],
+    today: date,
+) -> dict[str, list[dict]]:
+    """For each slot, the eligible recipes ranked best-first (staples last-ish,
+    long recipes later so weeknights stay quick)."""
+    by_type: dict[str, list[dict]] = defaultdict(list)
+    for r in recipes:
+        dt = r.get("dish_type")
+        if dt:
+            by_type[dt].append(r)
+    pools = {}
+    for slot in slots:
+        pool = by_type.get(slot, [])
+        # skip unfilled recipes (missing time metadata) unless the slot has nothing else
+        if filled := [r for r in pool if r.get("time_total_min", 0) > 0]:
+            pool = filled
+        if max_time is not None:
+            pool = [r for r in pool if r.get("time_total_min", 0) <= max_time]
+        if exclude_tags:
+            pool = [r for r in pool if not exclude_tags & set(r["tags"])]
+        # rank: recency penalty, then a light length penalty; stable
+        pool = sorted(
+            pool,
+            key=lambda r: (
+                recency_penalty(r["slug"], {}, today) if False else 0,
+                r.get("time_total_min", 0) * 0.1,
+                r["slug"],
+            ),
+        )
+        pools[slot] = pool
+    return pools
+
+
+def compose_week(
+    pools: dict[str, list[dict]],
+    slots: list[str],
+    days: int,
+    recency: dict[str, date],
+    once_rules: set[str],
     seed: int | None,
     today: date,
-    allow_unfilled: bool = False,
-) -> list[dict]:
-    pool = recipes[:]
-    if not allow_unfilled:
-        pool = [r for r in pool if r.get("time_total_min", 0) > 0]
-    if max_time is not None:
-        pool = [r for r in pool if r.get("time_total_min", 0) <= max_time]
-    if exclude_tags:
-        pool = [r for r in pool if not exclude_tags & set(r["tags"])]
-    if include_tags:
-        must_have = [r for r in pool if include_tags & set(r["tags"])]
-        if must_have:
-            # guarantee at least one include-tagged pick, rest from full pool
-            rng = random.Random(seed)
-            anchor = rng.choice(must_have)
-            rest_pool = [r for r in pool if r["slug"] != anchor["slug"]]
-            rng.shuffle(rest_pool)
-            rest = sorted(rest_pool, key=lambda r: score(r, recency, today) + rng.random())
-            return [anchor] + rest[: days - 1]
+) -> list[list[dict]]:
+    """Returns days x slots picks. Rotates through each slot's ranked pool;
+    recipes used get pushed toward the back of the rotation so the week has
+    different permutations. 'once' slots are removed after first use."""
     rng = random.Random(seed)
-    rng.shuffle(pool)
-    return sorted(pool, key=lambda r: score(r, recency, today) + rng.random())[:days]
+    rotation: dict[str, list[dict]] = {}
+    for slot in slots:
+        pool = pools.get(slot, [])[:]
+        rng.shuffle(pool)
+        # stable-ish: light sorting by (recency, time) after shuffle keeps variety
+        pool.sort(key=lambda r: (recency_penalty(r["slug"], recency, today) + rng.random(),
+                                 r.get("time_total_min", 0)))
+        rotation[slot] = pool
+
+    used: dict[str, set[str]] = defaultdict(set)
+    week: list[list[dict]] = []
+    for _ in range(days):
+        night: list[dict] = []
+        for slot in slots:
+            pool = rotation.get(slot, [])
+            pick = next((r for r in pool if r["slug"] not in used[slot]), None)
+            if pick is None and pool:
+                pick = pool[rng.randrange(len(pool))]  # exhausted; allow repeat
+            if pick:
+                night.append(pick)
+                used[slot].add(pick["slug"])
+                if slot in once_rules:
+                    rotation[slot] = [r for r in rotation[slot] if r["slug"] != pick["slug"]]
+                else:
+                    # move used pick to the back so it won't repeat too soon
+                    rotation[slot] = [r for r in rotation[slot] if r["slug"] != pick["slug"]] + [pick]
+        week.append(night)
+    return week
 
 
 def fmt_minutes(m: int) -> str:
@@ -153,51 +205,62 @@ def fmt_minutes(m: int) -> str:
     return f"{m} min"
 
 
-def render_menu_page(start: date, picks: list[dict], plan_date: date) -> str:
-    lines = [
-        f"---",
-        f"slug: menu-{start.isoformat()}",
-        f"title: Menu for week of {start.isoformat()}",
-        f"---",
-        "",
-        f"Plan generated {plan_date.isoformat()} by `scripts/plan_week.py`.",
-        "",
-        "| Day | Recipe | Time | Tags |",
-        "|-----|--------|------|------|",
-    ]
-    for i, r in enumerate(picks):
-        day = DAY_NAMES[i % 7]
-        tags = ", ".join(r["tags"][:4]) if r["tags"] else ""
-        lines.append(
-            f"| {day} | [{r['title']}](../recipes/{r['slug']}.md) "
-            f"| {fmt_minutes(r.get('time_total_min', 0))} | {tags} |"
-        )
-    lines += [
-        "",
-        "## Grocery list (rough)",
-        "",
-        "Combined ingredients from all planned recipes - quantities not merged, check servings per recipe.",
-        "",
-    ]
-    seen = set()
+def collect_ingredients(picks: list[dict]) -> list[str]:
+    seen: set[str] = set()
+    out: list[str] = []
     for r in picks:
         page = RECIPES_DIR / f"{r['slug']}.md"
         text = page.read_text(encoding="utf-8")
         parts = text.split("---\n", 2)
         fm = parts[1] if len(parts) >= 3 else ""
         if m := re.search(r"^ingredients:\s*$\n((?:\s+- .*\n)*)", fm, re.M):
-            items = [line.strip()[2:].strip() for line in m.group(1).splitlines()]
-            for item in items:
-                if item.lower() not in seen:
+            for line in m.group(1).splitlines():
+                item = line.strip()[2:].strip()
+                if item and item.lower() not in seen:
                     seen.add(item.lower())
-                    lines.append(f"- {item}")
+                    out.append(item)
+    return out
+
+
+def render_menu_page(start: date, week: list[list[dict]], slots: list[str], plan_date: date) -> str:
+    lines = [
+        "---",
+        f"slug: menu-{start.isoformat()}",
+        f"title: Menu for week of {start.isoformat()}",
+        "---",
+        "",
+        f"Plan generated {plan_date.isoformat()} by `scripts/plan_week.py`.",
+        "",
+    ]
+    header = "| Day | " + " | ".join(s.capitalize() for s in slots) + " |"
+    sep = "|-----" + "|--------" * len(slots) + "|"
+    lines += [header, sep]
+    all_picks: list[dict] = []
+    for i, night in enumerate(week):
+        day = DAY_NAMES[i % 7]
+        cells = []
+        for slot, r in zip(slots, night):
+            if r is None:
+                cells.append("-")
+                continue
+            all_picks.append(r)
+            total = r.get("time_total_min", 0)
+            cells.append(f"[{r['title']}](../recipes/{r['slug']}.md) ({fmt_minutes(total)})")
+        lines.append(f"| {day} | " + " | ".join(cells) + " |")
+    lines += [
+        "",
+        "## Grocery list (rough)",
+        "",
+        "Combined ingredients across the week - quantities not merged, check servings per recipe.",
+        "",
+    ]
+    lines += [f"- {item}" for item in collect_ingredients(all_picks)]
     return "\n".join(lines) + "\n"
 
 
 def render_index(menus_dir: Path) -> str:
     lines = ["# Weekly Menus", "", "Plans generated by `scripts/plan_week.py`. Newest first.", ""]
-    pages = sorted(menus_dir.glob("menu-*.md"), reverse=True)
-    for p in pages:
+    for p in sorted(menus_dir.glob("menu-*.md"), reverse=True):
         text = p.read_text(encoding="utf-8")
         if m := re.search(r"^title:\s*(.+?)\s*$", text, re.M):
             lines.append(f"- [{m.group(1).strip().strip(chr(34))}]({p.name})")
@@ -208,27 +271,36 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=7)
     ap.add_argument("--start", default=None, help="YYYY-MM-DD, defaults to next Monday")
-    ap.add_argument("--max-time", type=int, default=None)
-    ap.add_argument("--exclude-tag", action="append", default=[],
-                    help="exclude recipes with this tag (repeatable); defaults to "
-                         f"{DEFAULT_EXCLUDE_TAGS} unless --no-default-exclude")
-    ap.add_argument("--no-default-exclude", action="store_true")
-    ap.add_argument("--include-tag", action="append", default=[])
     ap.add_argument("--seed", type=int, default=None)
-    ap.add_argument("--allow-unfilled", action="store_true",
-                    help="include recipes missing time metadata (the unfilled criticals)")
+    ap.add_argument("--slots", default=None, dest="dish_types",
+                    help='comma-separated slots, e.g. "protein,carb,salad" (default)')
+    ap.add_argument("--include-dish", action="append", default=[],
+                    help="require this dish_type slot on at least one night (repeatable)")
+    ap.add_argument("--no-salad", action="store_true", help="omit the salad slot")
+    ap.add_argument("--carb-once", action="store_true", help="each carb recipe at most once")
+    ap.add_argument("--protein-once", action="store_true", help="each protein recipe at most once")
+    ap.add_argument("--max-time", type=int, default=None)
+    ap.add_argument("--exclude-tag", action="append", default=[])
     ap.add_argument("--overwrite", action="store_true")
     args = ap.parse_args()
-    if args.no_default_exclude:
-        exclude_tags = list(args.exclude_tag)
-    else:
-        exclude_tags = list(dict.fromkeys(DEFAULT_EXCLUDE_TAGS + list(args.exclude_tag)))
 
     today = date.today()
     if args.start:
         start = datetime.strptime(args.start, "%Y-%m-%d").date()
     else:
         start = today + timedelta(days=(7 - today.weekday()) % 7 or 7)
+
+    slots = (args.dish_types.split(",") if args.dish_types else DEFAULT_SLOTS)
+    if args.no_salad:
+        slots = [s for s in slots if s != "salad"]
+    for extra in args.include_dish:
+        if extra not in slots:
+            slots.append(extra)
+    once_rules = set()
+    if args.carb_once and "carb" in slots:
+        once_rules.add("carb")
+    if args.protein_once and "protein" in slots:
+        once_rules.add("protein")
 
     MENUS_DIR.mkdir(parents=True, exist_ok=True)
     menu_path = MENUS_DIR / f"menu-{start.isoformat()}.md"
@@ -238,23 +310,24 @@ def main() -> int:
 
     recipes = load_recipes()
     recency = load_recency()
-    picks = pick_menu(
-        recipes,
-        recency,
-        args.days,
-        args.max_time,
-        set(exclude_tags),
-        set(args.include_tag),
-        args.seed,
-        today,
-        allow_unfilled=args.allow_unfilled,
-    )
-    if len(picks) < args.days:
-        print(f"Warning: only {len(picks)} recipes matched constraints (wanted {args.days})")
+    pools = build_slot_pools(recipes, slots, args.max_time, set(args.exclude_tag), today)
+    missing = [s for s in slots if not pools.get(s)]
+    if missing:
+        print(f"Error: no eligible recipes for dish_type slot(s): {', '.join(missing)}")
+        print("Available dish_types with recipes: "
+              + ", ".join(sorted({r.get('dish_type', '') for r in recipes if r.get('dish_type')})))
+        return 1
 
-    menu_path.write_text(render_menu_page(start, picks, today), encoding="utf-8")
+    week = compose_week(pools, slots, args.days, recency, once_rules, args.seed, today)
+    menu_path.write_text(render_menu_page(start, week, slots, today), encoding="utf-8")
     (MENUS_DIR / "index.md").write_text(render_index(MENUS_DIR), encoding="utf-8")
-    print(f"Wrote {menu_path} ({len(picks)} dinners)")
+
+    counts = Counter()
+    for night in week:
+        for r in night:
+            counts[r.get("dish_type", "?")] += 1
+    print(f"Wrote {menu_path} ({args.days} nights x {len(slots)} slots)")
+    print(f"Slot fill counts: {dict(counts)}")
     return 0
 
 

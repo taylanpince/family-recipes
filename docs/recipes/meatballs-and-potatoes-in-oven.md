@@ -1,5 +1,6 @@
 ---
 slug: meatballs-and-potatoes-in-oven
+dish_type: protein
 title: Meatballs and Potatoes in the Oven
 cuisine: Turkish
 difficulty: easy
@@ -20,6 +21,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min

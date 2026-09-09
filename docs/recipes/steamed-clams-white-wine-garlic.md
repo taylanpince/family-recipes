@@ -1,5 +1,6 @@
 ---
 slug: steamed-clams-white-wine-garlic
+dish_type: protein
 title: Steamed Clams with White Wine and Garlic
 cuisine: French
 difficulty: easy
@@ -26,6 +27,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 50 min

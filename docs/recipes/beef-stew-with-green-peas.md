@@ -1,5 +1,6 @@
 ---
 slug: beef-stew-with-green-peas
+dish_type: protein
 title: Beef Stew with Green Peas
 cuisine: Turkish
 difficulty: easy
@@ -29,6 +30,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 60 min

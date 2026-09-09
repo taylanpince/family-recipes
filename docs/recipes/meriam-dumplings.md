@@ -1,5 +1,6 @@
 ---
 slug: meriam-dumplings
+dish_type: carb
 title: Meriam Dumplings
 cuisine: Family
 difficulty: medium
@@ -21,6 +22,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** Family
 - **Difficulty:** medium
 - **Total time:** 45 min

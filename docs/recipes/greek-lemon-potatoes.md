@@ -1,5 +1,6 @@
 ---
 slug: greek-lemon-potatoes
+dish_type: carb
 title: Greek Lemon Potatoes
 cuisine: Greek
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** Greek
 - **Difficulty:** easy
 - **Total time:** 90 min

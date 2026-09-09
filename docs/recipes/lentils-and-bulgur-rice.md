@@ -1,5 +1,6 @@
 ---
 slug: lentils-and-bulgur-rice
+dish_type: carb
 title: Lentils and Bulgur Rice
 cuisine: Turkish
 difficulty: easy
@@ -18,6 +19,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 50 min

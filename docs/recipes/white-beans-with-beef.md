@@ -1,5 +1,6 @@
 ---
 slug: white-beans-with-beef
+dish_type: protein
 title: White Beans with Beef
 cuisine: Turkish
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 70 min

@@ -1,5 +1,6 @@
 ---
 slug: fried-rice
+dish_type: carb
 title: Fried Rice
 cuisine: Chinese
 difficulty: easy
@@ -34,6 +35,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** Chinese
 - **Difficulty:** easy
 - **Total time:** 30 min

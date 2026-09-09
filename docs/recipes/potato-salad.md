@@ -1,5 +1,6 @@
 ---
 slug: potato-salad
+dish_type: carb
 title: Potato Salad
 cuisine: American
 difficulty: easy
@@ -21,6 +22,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** carb
 - **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 35 min

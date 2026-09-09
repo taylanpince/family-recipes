@@ -1,5 +1,6 @@
 ---
 slug: red-lentil-soup
+dish_type: soup
 title: Red Lentil Soup
 cuisine: Turkish
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** soup
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 45 min

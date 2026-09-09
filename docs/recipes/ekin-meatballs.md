@@ -1,5 +1,6 @@
 ---
 slug: ekin-meatballs
+dish_type: protein
 title: Ekin Meatballs
 cuisine: Turkish
 difficulty: easy
@@ -25,6 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 45 min

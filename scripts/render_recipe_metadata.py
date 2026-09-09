@@ -67,6 +67,7 @@ def split_photo_block(body: str) -> tuple[str, str]:
 
 
 def build_block(fm: str) -> str:
+    dish_type = parse_scalar(fm, "dish_type")
     cuisine = parse_scalar(fm, "cuisine")
     difficulty = parse_scalar(fm, "difficulty")
     time_total_min = parse_scalar(fm, "time_total_min")
@@ -76,6 +77,8 @@ def build_block(fm: str) -> str:
 
     lines: list[str] = [START, "## Recipe details", ""]
 
+    if dish_type:
+        lines.append(f"- **Dish type:** {dish_type}")
     if cuisine:
         lines.append(f"- **Cuisine:** {cuisine}")
     if difficulty:

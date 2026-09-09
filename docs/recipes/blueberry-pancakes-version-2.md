@@ -1,5 +1,6 @@
 ---
 slug: blueberry-pancakes-version-2
+dish_type: breakfast
 title: Blueberry Pancakes (Version 2)
 cuisine: American
 difficulty: easy
@@ -27,6 +28,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** breakfast
 - **Cuisine:** American
 - **Difficulty:** easy
 - **Total time:** 20 min

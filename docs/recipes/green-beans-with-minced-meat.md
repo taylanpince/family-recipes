@@ -1,5 +1,6 @@
 ---
 slug: green-beans-with-minced-meat
+dish_type: protein
 title: Green Beans with Minced Meat
 cuisine: Turkish
 difficulty: easy
@@ -24,6 +25,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** easy
 - **Total time:** 80 min

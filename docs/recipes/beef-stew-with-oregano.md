@@ -1,5 +1,6 @@
 ---
 slug: beef-stew-with-oregano
+dish_type: protein
 title: Beef Stew with Oregano
 cuisine: Greek
 difficulty: easy
@@ -22,6 +23,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
+- **Dish type:** protein
 - **Cuisine:** Greek
 - **Difficulty:** easy
 - **Total time:** 195 min
