@@ -1,0 +1,26 @@
+{
+  "themes": [
+    {
+      "weekday": 1,
+      "name": "Fish Night",
+      "slot": "protein",
+      "require_tags": ["fish"],
+      "note": "Fishmongers get fresh fish on Tuesdays"
+    },
+    {
+      "weekday": 4,
+      "name": "Cookout",
+      "slot": "protein",
+      "require_tags": ["bbq"],
+      "note": "Friday cookout: lamb chops, steaks, meatballs on the BBQ"
+    },
+    {
+      "weekday": null,
+      "name": "Vegetarian Night",
+      "slot": "protein",
+      "require_tags": ["vegetarian"],
+      "count": 1,
+      "note": "One vegetarian dinner per week"
+    }
+  ]
+}
