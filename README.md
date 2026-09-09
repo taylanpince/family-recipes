@@ -25,4 +25,18 @@ has alternatives. Useful flags:
 - `--no-salad` - omit the salad slot
 - `--carb-once` / `--protein-once` - never repeat that slot within the week
 - `--slots "protein,carb,salad,soup"` - custom nightly slot list
-- `--include-dish soup` - add soup as an extra slot requirement
+- `--no-themes` - ignore weekly themes for one run
+
+### Weekly themes
+
+`planner-config.json` (repo root) pins themed nights. Current setup:
+
+| Theme | When | Rule |
+|---|---|---|
+| Fish Night | Tuesday | protein must be tagged `fish` (fresh fishmonger day) |
+| Cookout | Friday | protein must be tagged `bbq` (lamb chops, steaks, köfte) |
+| Vegetarian Night | 1x/week | protein must be tagged `vegetarian` |
+
+Weekday themes reserve their tagged recipes exclusively for that day - the
+planner won't schedule BBQ dishes on other days. Set `"reserve": false` on a
+theme to allow its recipes in the general rotation.
