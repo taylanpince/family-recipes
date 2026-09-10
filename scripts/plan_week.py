@@ -143,9 +143,8 @@ def build_pool(
 ) -> list[dict]:
     pool = [r for r in recipes if r.get("dish_type") == slot]
     if require_tags:
-        tagged = [r for r in pool if require_tags <= r["tags"]]
-        if tagged:
-            pool = tagged
+        # strict: a themed slot must genuinely match its tags, else empty pool
+        pool = [r for r in pool if require_tags <= r["tags"]]
     # skip unfilled recipes (missing time metadata) unless nothing else exists
     if filled := [r for r in pool if r.get("time_total_min", 0) > 0]:
         pool = filled
@@ -234,9 +233,8 @@ def compose_week(
             pool = build_pool(recipes, slot, max_time, exclude_tags,
                               require_tags=set(t.get("require_tags", [])))
             pick = pick_best(pool, used[slot], recency, today, rng)
-            if pick is None:
-                # theme pool exhausted/empty: fall back to the slot's base rotation
-                pick = pick_best(rotation.get(slot, []), used[slot], recency, today, rng)
+            # no fallback: if the theme pool is empty/exhausted, leave the slot
+            # to the base rotation rather than mislabeling an off-theme pick
             if pick:
                 night[pos] = pick
                 used[slot].add(pick["slug"])
