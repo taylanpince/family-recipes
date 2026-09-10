@@ -14,8 +14,8 @@ side), and the planner composes nights as permutations of these slots.
 .venv/bin/python scripts/plan_week.py --seed 7
 ```
 
-Writes `docs/menus/menu-<week>.md` (day-by-day table + rough grocery list)
-and updates the menus index. Avoids recently-cooked recipes from
+Writes `docs/menus/menu-<week>.md` (day-by-day table) and updates the menus index.
+Avoids recently-cooked recipes from
 `log/cooked.csv` and skips recipes still missing time metadata when the slot
 has alternatives. Useful flags:
 
