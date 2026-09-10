@@ -294,25 +294,6 @@ def fmt_minutes(m: int) -> str:
     return f"{m} min"
 
 
-def collect_ingredients(picks: list[dict | None]) -> list[str]:
-    seen: set[str] = set()
-    out: list[str] = []
-    for r in picks:
-        if r is None:
-            continue
-        page = RECIPES_DIR / f"{r['slug']}.md"
-        text = page.read_text(encoding="utf-8")
-        parts = text.split("---\n", 2)
-        fm = parts[1] if len(parts) >= 3 else ""
-        if m := re.search(r"^ingredients:\s*$\n((?:\s+- .*\n)*)", fm, re.M):
-            for line in m.group(1).splitlines():
-                item = line.strip()[2:].strip()
-                if item and item.lower() not in seen:
-                    seen.add(item.lower())
-                    out.append(item)
-    return out
-
-
 def render_menu_page(
     start: date,
     week: list[list[dict | None]],
@@ -347,14 +328,6 @@ def render_menu_page(
             total = r.get("time_total_min", 0)
             cells.append(f"[{r['title']}](../recipes/{r['slug']}.md) ({fmt_minutes(total)})")
         lines.append(f"| {day} | " + " | ".join(cells) + " |")
-    lines += [
-        "",
-        "## Grocery list (rough)",
-        "",
-        "Combined ingredients across the week - quantities not merged, check servings per recipe.",
-        "",
-    ]
-    lines += [f"- {item}" for item in collect_ingredients(all_picks)]
     return "\n".join(lines) + "\n"
 
 
