@@ -1,5 +1,7 @@
 # Recipes
 
+- [Conventions + schema](conventions.md)
+
 ## All recipes
 
 - [Anneanne's Poğaça (Cheese & Dill Rolls)](anneanne-pogaca.md)
@@ -16,14 +18,16 @@
 - [Chickpeas with Beef](chickpeas-with-beef.md)
 - [Chickpeas with White Rice](chickpeas-with-white-rice.md)
 - [Chinese Noodles and Chicken Teriyaki](chinese-noodles-and-chicken-teriyaki.md)
-- [Crispy Roast Potatoes](crispy-roast-potatoes.md)
-- [Ece's Chicken Broth](eces-chicken-broth.md)
+- [Ece’s Chicken Broth](eces-chicken-broth.md)
 - [Ekin Meatballs](ekin-meatballs.md)
+- [Extra Crispy Roast Potatoes](crispy-roast-potatoes.md)
 - [Fennel Salad](fennel-salad.md)
 - [Fried Rice](fried-rice.md)
-- [Grandma's Lentil Soup](grandmas-lentil-soup.md)
+- [Grandma’s Lentil Soup](grandmas-lentil-soup.md)
 - [Greek Lemon Potatoes](greek-lemon-potatoes.md)
 - [Green Beans with Minced Meat](green-beans-with-minced-meat.md)
+- [Green Salad (Onion & Tomato)](green-salad.md)
+- [Hummus](hummus.md)
 - [Kısır](kisir-turkish.md)
 - [Lamb Roast in Creuset](lamb-roast-creuset.md)
 - [Lentils and Bulgur Rice](lentils-and-bulgur-rice.md)
@@ -51,5 +55,6 @@
 - [Turkish Shepherd Salad (Çoban Salatası)](turkish-shepherd-salad.md)
 - [Vine Leaf Dolma](vine-leaf-dolma.md)
 - [White Beans with Beef](white-beans-with-beef.md)
+- [White Rice](white-rice.md)
 - [Zucchini Dolma](zucchini-dolma.md)
 - [Zucchini Pancakes (Mücver)](zucchini-pancakes-mucver.md)
