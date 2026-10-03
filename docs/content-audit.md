@@ -22,7 +22,7 @@ No missing recipe details have been inferred or invented.
 - [Lentils and Bulgur Rice](recipes/lentils-and-bulgur-rice.md) (`lentils-and-bulgur-rice.md`)
 - [Oxtail Soup](recipes/oxtail-soup.md) (`oxtail-soup.md`)
 - [Potato Salad](recipes/potato-salad.md) (`potato-salad.md`)
-- [Salmon with Potato Salad](recipes/salmon-with-potato-salad.md) (`salmon-with-potato-salad.md`)
+- [Salmon](recipes/salmon.md) (`salmon.md`)
 
 ## Recipe-by-recipe punch list
 
@@ -146,18 +146,19 @@ No missing recipe details have been inferred or invented.
   - potatoes
   - green onions
 
-### Salmon with Potato Salad
+### Salmon
 
-- File: `docs/recipes/salmon-with-potato-salad.md`
+- File: `docs/recipes/salmon.md`
 - Status: **critical**
 - Issues:
-  - Very short ingredients list (2 items)
   - Ingredients list is entirely vague shorthand
-  - No steps in body
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
-  - salmon
-  - potato salad
+  - salmon fillets
+  - olive oil
+  - salt
+  - black pepper
+  - lemon
 
 ### Menemen
 
