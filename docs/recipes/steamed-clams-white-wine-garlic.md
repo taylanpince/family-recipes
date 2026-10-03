@@ -7,6 +7,7 @@ difficulty: easy
 time_total_min: 50
 servings: 4
 tags:
+  - fish
   - seafood
   - clams
   - quick
@@ -32,7 +33,7 @@ ingredients:
 - **Difficulty:** easy
 - **Total time:** 50 min
 - **Servings:** 4
-- **Tags:** seafood, clams, quick
+- **Tags:** fish, seafood, clams, quick
 
 ## Ingredients
 

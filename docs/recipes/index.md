@@ -47,7 +47,7 @@
 - [Potato Salad](potato-salad.md)
 - [Red Lentil Soup](red-lentil-soup.md)
 - [Ribeye Steak on the BBQ](ribeye-steak-bbq.md)
-- [Salmon with Potato Salad](salmon-with-potato-salad.md)
+- [Salmon](salmon.md)
 - [Sautéed Mushrooms & Spinach with Spicy Garlic Sauce](sauteed-mushrooms-spinach-spicy-garlic.md)
 - [Steamed Clams with White Wine and Garlic](steamed-clams-white-wine-garlic.md)
 - [Swiss Chard Dolma](swiss-chard-dolma.md)

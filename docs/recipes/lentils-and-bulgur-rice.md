@@ -7,6 +7,8 @@ difficulty: easy
 time_total_min: 50
 servings: 4
 tags:
+  - rice
+  - bulgur
   - weeknight
   - pantry
   - vegetarian
@@ -24,7 +26,7 @@ ingredients:
 - **Difficulty:** easy
 - **Total time:** 50 min
 - **Servings:** 4
-- **Tags:** weeknight, pantry, vegetarian, family
+- **Tags:** rice, bulgur, weeknight, pantry, vegetarian, family
 
 ## Ingredients
 

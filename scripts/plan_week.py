@@ -155,19 +155,47 @@ def build_pool(
     return pool
 
 
+def load_preferences() -> dict:
+    """Optional slot preferences from planner-config.json, e.g.:
+
+    preferences:
+      carb:
+        prefer_tags: [rice, staple, bulgur]   # recipes with these tags rank first
+        defer_tags: [potatoes, roasted]       # recipes with these tags rank later
+        penalty: 3.0                          # extra score weight for deferred recipes
+    """
+    if not CONFIG_PATH.exists():
+        return {}
+    with CONFIG_PATH.open(encoding="utf-8") as f:
+        return json.load(f).get("preferences", {})
+
+
 def pick_best(
     pool: list[dict],
     used: set[str],
     recency: dict[str, date],
     today: date,
     rng: random.Random,
+    prefer_tags: set[str] | None = None,
+    defer_tags: set[str] | None = None,
+    defer_penalty: float = 3.0,
 ) -> dict | None:
-    """Best unused pick: rarely-cooked and quick first, with jitter."""
+    """Best unused pick: rarely-cooked and quick first, with jitter.
+    prefer_tags recipes rank ahead; defer_tags recipes get a penalty."""
     candidates = [r for r in pool if r["slug"] not in used] or pool
     if not candidates:
         return None
+
+    def pref_score(r: dict) -> float:
+        s = 0.0
+        if prefer_tags and (prefer_tags & r["tags"]):
+            s -= defer_penalty
+        if defer_tags and (defer_tags & r["tags"]):
+            s += defer_penalty
+        return s
+
     return min(candidates, key=lambda r: (
-        recency_penalty(r["slug"], recency, today) + rng.random(),
+        recency_penalty(r["slug"], recency, today) + pref_score(r) + rng.random(),
         r.get("time_total_min", 0),
     ))
 
@@ -183,9 +211,25 @@ def compose_week(
     exclude_tags: set[str],
     seed: int | None,
     today: date,
+    preferences: dict | None = None,
 ) -> tuple[list[list[dict | None]], list[str | None]]:
     """Returns (days x slots picks, day labels), honoring weekday themes and quotas."""
     rng = random.Random(seed)
+    preferences = preferences or {}
+
+    # per-slot tag preferences (e.g. prefer rice over potatoes for carb)
+    slot_prefs: dict[str, dict] = {}
+    for slot, prefs in (preferences or {}).items():
+        if isinstance(prefs, dict):
+            slot_prefs[slot] = prefs
+
+    def pref_args(slot: str) -> dict:
+        p = slot_prefs.get(slot, {})
+        return {
+            "prefer_tags": set(p.get("prefer_tags", [])) or None,
+            "defer_tags": set(p.get("defer_tags", [])) or None,
+            "defer_penalty": float(p.get("penalty", 3.0)),
+        }
 
     day_themes: dict[int, list[dict]] = defaultdict(list)
     quota_themes: list[dict] = []
@@ -237,7 +281,7 @@ def compose_week(
             pos = slots.index(slot)
             pool = build_pool(recipes, slot, max_time, exclude_tags,
                               require_tags=set(t.get("require_tags", [])))
-            pick = pick_best(pool, used[slot], recency, today, rng)
+            pick = pick_best(pool, used[slot], recency, today, rng, **pref_args(slot))
             # no fallback: if the theme pool is empty/exhausted, leave the slot
             # to the base rotation rather than mislabeling an off-theme pick
             if pick:
@@ -264,7 +308,7 @@ def compose_week(
             pool = [r for r in pool if r["slug"] not in used[slot]]
             if not pool:
                 continue
-            pick = pick_best(pool, used[slot], recency, today, rng)
+            pick = pick_best(pool, used[slot], recency, today, rng, **pref_args(slot))
             if pick:
                 night[pos] = pick
                 used[slot].add(pick["slug"])
@@ -277,7 +321,7 @@ def compose_week(
             if night[pos] is not None:
                 continue
             pool = rotation.get(slot, [])
-            pick = pick_best(pool, used[slot], recency, today, rng)
+            pick = pick_best(pool, used[slot], recency, today, rng, **pref_args(slot))
             if pick:
                 night[pos] = pick
                 used[slot].add(pick["slug"])
@@ -404,6 +448,7 @@ def main() -> int:
     week, day_labels = compose_week(
         recipes, slots, args.days, recency, themes,
         once_rules, args.max_time, set(args.exclude_tag), args.seed, today,
+        preferences=load_preferences(),
     )
 
     menu_path.write_text(render_menu_page(start, week, slots, today, day_labels), encoding="utf-8")

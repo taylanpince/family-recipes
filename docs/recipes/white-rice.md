@@ -7,6 +7,7 @@ time_total_min: 25
 servings: 4
 dish_type: carb
 tags:
+  - rice
   - staple
   - weeknight
   - quick
@@ -25,7 +26,7 @@ ingredients:
 - **Difficulty:** easy
 - **Total time:** 25 min
 - **Servings:** 4
-- **Tags:** staple, weeknight, quick
+- **Tags:** rice, staple, weeknight, quick
 
 ## Ingredients
 
