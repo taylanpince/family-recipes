@@ -1,11 +1,11 @@
 {
   "themes": [
     {
-      "weekday": 1,
       "name": "Fish Night",
       "slot": "protein",
       "require_tags": ["fish"],
-      "note": "Fishmongers get fresh fish on Tuesdays"
+      "weekdays": [1],
+      "note": "Fresh fish days (Tue/Sat/Sun) - fishmongers closed on Mondays"
     },
     {
       "weekday": 4,

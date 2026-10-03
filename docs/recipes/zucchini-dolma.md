@@ -1,6 +1,6 @@
 ---
 slug: zucchini-dolma
-dish_type: salad
+dish_type: protein
 title: Zucchini Dolma
 cuisine: Turkish
 difficulty: medium
@@ -26,7 +26,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Dish type:** salad
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** medium
 - **Total time:** 70 min

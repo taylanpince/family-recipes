@@ -1,7 +1,7 @@
 ---
-slug: chickpeas-with-white-rice
+slug: chickpeas
 dish_type: protein
-title: Chickpeas with White Rice
+title: Chickpeas (Nohut)
 cuisine: Turkish
 difficulty: easy
 time_total_min: 60
@@ -12,7 +12,10 @@ tags:
   - family
 ingredients:
   - chickpeas
-  - white rice
+  - olive oil
+  - onion
+  - tomato paste
+  - salt
 ---
 
 <!-- GENERATED_RECIPE_METADATA_START -->
@@ -28,11 +31,14 @@ ingredients:
 ## Ingredients
 
 - chickpeas
-- white rice
+- olive oil
+- onion
+- tomato paste
+- salt
 
 <!-- GENERATED_RECIPE_METADATA_END -->
 
 ## Notes
 
-- Logged from dinner note.
+- Served with white rice as the carb side (rice cooked separately).
 - Placeholder recipe entry so the cooking log can link correctly; details can be filled in later.

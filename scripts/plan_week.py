@@ -190,8 +190,13 @@ def compose_week(
     day_themes: dict[int, list[dict]] = defaultdict(list)
     quota_themes: list[dict] = []
     for t in themes:
-        if t.get("weekday") is not None:
-            day_themes[int(t["weekday"])].append(t)
+        # weekday themes: single "weekday" or a "weekdays" list
+        weekdays = t.get("weekdays")
+        if weekdays is None and t.get("weekday") is not None:
+            weekdays = [t["weekday"]]
+        if weekdays:
+            for wd in weekdays:
+                day_themes[int(wd)].append(t)
         else:
             quota_themes.append(t)
     quota_remaining: dict[str, int] = {t["name"]: int(t.get("count", 1)) for t in quota_themes}
@@ -412,8 +417,11 @@ def main() -> int:
     print(f"Wrote {menu_path} ({args.days} nights x {len(slots)} slots)")
     print(f"Slot fill counts: {dict(counts)}")
     for t in themes:
-        wd = t.get("weekday")
-        when = f"every {DAY_NAMES[int(wd)]}" if wd is not None else f"x{t.get('count', 1)}/week"
+        wds = t.get("weekdays") or ([t["weekday"]] if t.get("weekday") is not None else [])
+        if wds:
+            when = " + ".join(DAY_NAMES[int(w)] for w in wds)
+        else:
+            when = f"x{t.get('count', 1)}/week"
         print(f"  theme: {t['name']} - {when} ({t['slot']}: {', '.join(t.get('require_tags', []))})")
     return 0
 
