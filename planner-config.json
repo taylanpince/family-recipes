@@ -29,6 +29,17 @@
       ],
       "count": 1,
       "note": "One vegetarian dinner per week"
+    },
+    {
+      "weekday": null,
+      "name": "Red Cabbage Salad",
+      "slot": "salad",
+      "require_tags": [
+        "red-cabbage"
+      ],
+      "count": 1,
+      "reserve": false,
+      "note": "Red cabbage salad at least once a week - stays available in the normal rotation too"
     }
   ],
   "preferences": {
