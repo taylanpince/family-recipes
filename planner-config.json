@@ -1,0 +1,45 @@
+{
+  "themes": [
+    {
+      "name": "Fish Night",
+      "slot": "protein",
+      "require_tags": [
+        "fish"
+      ],
+      "weekdays": [
+        2
+      ],
+      "note": "Wednesday fish night - fresh fish from the fishmonger"
+    },
+    {
+      "weekday": 4,
+      "name": "Cookout",
+      "slot": "protein",
+      "require_tags": [
+        "bbq"
+      ],
+      "note": "Friday cookout: lamb chops, steaks, meatballs on the BBQ"
+    },
+    {
+      "weekday": null,
+      "name": "Vegetarian Night",
+      "slot": "protein",
+      "require_tags": [
+        "vegetarian"
+      ],
+      "count": 1,
+      "note": "One vegetarian dinner per week"
+    }
+  ],
+  "preferences": {
+    "carb": {
+      "prefer_tags": [
+        "rice",
+        "staple",
+        "bulgur"
+      ],
+      "penalty": 3.0,
+      "note": "Rice (white/black/bulgur) preferred; potatoes OK but less often"
+    }
+  }
+}

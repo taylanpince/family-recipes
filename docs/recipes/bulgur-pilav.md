@@ -7,6 +7,7 @@ difficulty: easy
 time_total_min: 35
 servings: 4
 tags:
+  - bulgur
   - weeknight
   - turkish
   - pantry
@@ -31,7 +32,7 @@ ingredients:
 - **Difficulty:** easy
 - **Total time:** 35 min
 - **Servings:** 4
-- **Tags:** weeknight, turkish, pantry
+- **Tags:** bulgur, weeknight, turkish, pantry
 
 ## Ingredients
 

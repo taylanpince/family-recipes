@@ -5,10 +5,10 @@ No missing recipe details have been inferred or invented.
 
 ## Summary
 
-- Total recipes audited: **51**
-- Critical follow-up needed: **12**
-- Needs attention: **19**
-- Looks structurally okay: **20**
+- Total recipes audited: **56**
+- Critical follow-up needed: **11**
+- Needs attention: **4**
+- Looks structurally okay: **41**
 
 ## Critical follow-up
 
@@ -16,14 +16,13 @@ No missing recipe details have been inferred or invented.
 - [Black Beluga Lentils (Le Puy)](recipes/black-beluga-lentils-from-le-puy.md) (`black-beluga-lentils-from-le-puy.md`)
 - [Blueberry Pancakes (Version 2)](recipes/blueberry-pancakes-version-2.md) (`blueberry-pancakes-version-2.md`)
 - [Bulgur Pilav](recipes/bulgur-pilav.md) (`bulgur-pilav.md`)
-- [Chickpeas with White Rice](recipes/chickpeas-with-white-rice.md) (`chickpeas-with-white-rice.md`)
+- [Chickpeas (Nohut)](recipes/chickpeas.md) (`chickpeas.md`)
 - [Chinese Noodles and Chicken Teriyaki](recipes/chinese-noodles-and-chicken-teriyaki.md) (`chinese-noodles-and-chicken-teriyaki.md`)
 - [Ekin Meatballs](recipes/ekin-meatballs.md) (`ekin-meatballs.md`)
 - [Lentils and Bulgur Rice](recipes/lentils-and-bulgur-rice.md) (`lentils-and-bulgur-rice.md`)
 - [Oxtail Soup](recipes/oxtail-soup.md) (`oxtail-soup.md`)
 - [Potato Salad](recipes/potato-salad.md) (`potato-salad.md`)
-- [Salmon with Potato Salad](recipes/salmon-with-potato-salad.md) (`salmon-with-potato-salad.md`)
-- [Sardines](recipes/sardines.md) (`sardines.md`)
+- [Salmon](recipes/salmon.md) (`salmon.md`)
 
 ## Recipe-by-recipe punch list
 
@@ -41,7 +40,6 @@ No missing recipe details have been inferred or invented.
 - File: `docs/recipes/black-beluga-lentils-from-le-puy.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
   - onion
@@ -56,7 +54,6 @@ No missing recipe details have been inferred or invented.
 - File: `docs/recipes/blueberry-pancakes-version-2.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Contains placeholder / incomplete-source wording
 
 ### Bulgur Pilav
@@ -71,25 +68,26 @@ No missing recipe details have been inferred or invented.
   - tomato paste
   - salt
 
-### Chickpeas with White Rice
+### Chickpeas (Nohut)
 
-- File: `docs/recipes/chickpeas-with-white-rice.md`
+- File: `docs/recipes/chickpeas.md`
 - Status: **critical**
 - Issues:
-  - Very short ingredients list (2 items)
   - Ingredients list is entirely vague shorthand
   - No steps in body
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
   - chickpeas
-  - white rice
+  - olive oil
+  - onion
+  - tomato paste
+  - salt
 
 ### Chinese Noodles and Chicken Teriyaki
 
 - File: `docs/recipes/chinese-noodles-and-chicken-teriyaki.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Missing usable total time
   - Missing usable servings
   - Ingredients list is entirely vague shorthand
@@ -109,7 +107,6 @@ No missing recipe details have been inferred or invented.
 - File: `docs/recipes/ekin-meatballs.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
   - olive oil
@@ -133,7 +130,6 @@ No missing recipe details have been inferred or invented.
 - File: `docs/recipes/oxtail-soup.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Missing usable total time
   - Missing usable servings
   - Very short ingredients list (1 item)
@@ -145,169 +141,24 @@ No missing recipe details have been inferred or invented.
 - File: `docs/recipes/potato-salad.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
   - potatoes
   - green onions
 
-### Salmon with Potato Salad
+### Salmon
 
-- File: `docs/recipes/salmon-with-potato-salad.md`
+- File: `docs/recipes/salmon.md`
 - Status: **critical**
 - Issues:
-  - Missing cuisine metadata
-  - Very short ingredients list (2 items)
-  - Ingredients list is entirely vague shorthand
-  - No steps in body
-  - Contains placeholder / incomplete-source wording
-- Vague ingredient entries to review:
-  - salmon
-  - potato salad
-
-### Sardines
-
-- File: `docs/recipes/sardines.md`
-- Status: **critical**
-- Issues:
-  - Missing cuisine metadata
   - Ingredients list is entirely vague shorthand
   - Contains placeholder / incomplete-source wording
 - Vague ingredient entries to review:
-  - sardines
-  - onions
-  - parsley
-  - black pepper
-  - olive oil
-
-### Beef Stew with Green Peas
-
-- File: `docs/recipes/beef-stew-with-green-peas.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - beef cubes
-  - olive oil
-  - onion (grated)
-  - carrots (chopped)
-  - tomatoes (grated)
-  - potatoes (optional)
-  - salt
-  - black pepper
-
-### Beef Stew with Oregano
-
-- File: `docs/recipes/beef-stew-with-oregano.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - beef cubes
-  - olive oil
-  - garlic (lots)
-  - oregano
-  - black pepper
-
-### Butternut Squash Soup
-
-- File: `docs/recipes/butternut-squash-soup.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - butternut squash
-  - chicken stock
-  - carrots
-  - salt
-  - black pepper
-
-### Chicken Thighs in Creuset
-
-- File: `docs/recipes/chicken-thighs-in-creuset.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
+  - salmon fillets
   - olive oil
   - salt
   - black pepper
-
-### Ece’s Chicken Broth
-
-- File: `docs/recipes/eces-chicken-broth.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - sea salt
-  - black pepper
-
-### Extra Crispy Roast Potatoes
-
-- File: `docs/recipes/crispy-roast-potatoes.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-
-### Fennel Salad
-
-- File: `docs/recipes/fennel-salad.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - fennel
-  - dill
-  - olive oil
   - lemon
-  - salt
-
-### Grandma’s Lentil Soup
-
-- File: `docs/recipes/grandmas-lentil-soup.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - olive oil
-  - salt
-  - black pepper
-
-### Lamb Roast in Creuset
-
-- File: `docs/recipes/lamb-roast-creuset.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - Fresh rosemary
-  - Bay leaves
-  - Baby potatoes
-  - Beef stock
-  - Olive oil
-
-### Lubina (Seabass)
-
-- File: `docs/recipes/lubina-seabass.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - olive oil
-  - salt
-
-### Meatballs and Potatoes in the Oven
-
-- File: `docs/recipes/meatballs-and-potatoes-in-oven.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-- Vague ingredient entries to review:
-  - potatoes
-  - olive oil
-  - meatballs
-  - red peppers
 
 ### Menemen
 
@@ -324,43 +175,14 @@ No missing recipe details have been inferred or invented.
   - salt
   - black pepper
 
-### Meriam Chicken Soup
-
-- File: `docs/recipes/meriam-chicken-soup.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-
-### Meriam Dumplings
-
-- File: `docs/recipes/meriam-dumplings.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-
-### Pancakes
-
-- File: `docs/recipes/pancakes.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
-
 ### Porridge (Kids)
 
 - File: `docs/recipes/porridge-kids.md`
 - Status: **needs-attention**
 - Issues:
-  - Missing cuisine metadata
   - Very short steps section (2 steps)
 - Vague ingredient entries to review:
   - fruits/toppings:
-
-### Steamed Clams with White Wine and Garlic
-
-- File: `docs/recipes/steamed-clams-white-wine-garlic.md`
-- Status: **needs-attention**
-- Issues:
-  - Missing cuisine metadata
 
 ### Turkish Eggplant Salad
 
@@ -409,6 +231,41 @@ No missing recipe details have been inferred or invented.
   - Olive oil
   - Meat stock
 
+### BBQ Meatballs (Köfte on the Grill)
+
+- File: `docs/recipes/bbq-meatballs.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - black pepper
+
+### Beef Stew with Green Peas
+
+- File: `docs/recipes/beef-stew-with-green-peas.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - beef cubes
+  - olive oil
+  - onion (grated)
+  - carrots (chopped)
+  - tomatoes (grated)
+  - potatoes (optional)
+  - salt
+  - black pepper
+
+### Beef Stew with Oregano
+
+- File: `docs/recipes/beef-stew-with-oregano.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - beef cubes
+  - olive oil
+  - garlic (lots)
+  - oregano
+  - black pepper
+
 ### Black-Eyed Peas Salad (Cold)
 
 - File: `docs/recipes/black-eyed-peas-salad-cold-dish.md`
@@ -418,6 +275,28 @@ No missing recipe details have been inferred or invented.
   - parsley (lots)
   - apple vinegar
   - salt
+
+### Butternut Squash Soup
+
+- File: `docs/recipes/butternut-squash-soup.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - butternut squash
+  - chicken stock
+  - carrots
+  - salt
+  - black pepper
+
+### Chicken Thighs in Creuset
+
+- File: `docs/recipes/chicken-thighs-in-creuset.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - olive oil
+  - salt
+  - black pepper
 
 ### Chickpeas with Beef
 
@@ -429,11 +308,48 @@ No missing recipe details have been inferred or invented.
   - salt
   - black pepper
 
+### Ece’s Chicken Broth
+
+- File: `docs/recipes/eces-chicken-broth.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - sea salt
+  - black pepper
+
+### Extra Crispy Roast Potatoes
+
+- File: `docs/recipes/crispy-roast-potatoes.md`
+- Status: **ok**
+- Issues: none flagged
+
+### Fennel Salad
+
+- File: `docs/recipes/fennel-salad.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - fennel
+  - dill
+  - olive oil
+  - lemon
+  - salt
+
 ### Fried Rice
 
 - File: `docs/recipes/fried-rice.md`
 - Status: **ok**
 - Issues: none flagged
+
+### Grandma’s Lentil Soup
+
+- File: `docs/recipes/grandmas-lentil-soup.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - olive oil
+  - salt
+  - black pepper
 
 ### Greek Lemon Potatoes
 
@@ -452,6 +368,20 @@ No missing recipe details have been inferred or invented.
   - salt
   - black pepper
 
+### Green Salad (Onion & Tomato)
+
+- File: `docs/recipes/green-salad.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - salt
+
+### Hummus
+
+- File: `docs/recipes/hummus.md`
+- Status: **ok**
+- Issues: none flagged
+
 ### Kısır
 
 - File: `docs/recipes/kisir-turkish.md`
@@ -465,9 +395,69 @@ No missing recipe details have been inferred or invented.
   - tomato paste
   - salt
 
+### Lamb Chops on the BBQ
+
+- File: `docs/recipes/lamb-chops-bbq.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - coarse salt
+  - black pepper
+  - olive oil
+
+### Lamb Roast in Creuset
+
+- File: `docs/recipes/lamb-roast-creuset.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - Fresh rosemary
+  - Bay leaves
+  - Baby potatoes
+  - Beef stock
+  - Olive oil
+
+### Lubina (Seabass)
+
+- File: `docs/recipes/lubina-seabass.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - olive oil
+  - salt
+
+### Meatballs and Potatoes in the Oven
+
+- File: `docs/recipes/meatballs-and-potatoes-in-oven.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - potatoes
+  - olive oil
+  - meatballs
+  - red peppers
+
+### Meriam Chicken Soup
+
+- File: `docs/recipes/meriam-chicken-soup.md`
+- Status: **ok**
+- Issues: none flagged
+
+### Meriam Dumplings
+
+- File: `docs/recipes/meriam-dumplings.md`
+- Status: **ok**
+- Issues: none flagged
+
 ### One-Pot Greek Braised Lamb
 
 - File: `docs/recipes/one-pot-greek-braised-lamb.md`
+- Status: **ok**
+- Issues: none flagged
+
+### Pancakes
+
+- File: `docs/recipes/pancakes.md`
 - Status: **ok**
 - Issues: none flagged
 
@@ -495,9 +485,25 @@ No missing recipe details have been inferred or invented.
 - Vague ingredient entries to review:
   - salt
 
+### Ribeye Steak on the BBQ
+
+- File: `docs/recipes/ribeye-steak-bbq.md`
+- Status: **ok**
+- Issues: none flagged
+- Vague ingredient entries to review:
+  - coarse salt
+  - black pepper
+  - olive oil
+
 ### Sautéed Mushrooms & Spinach with Spicy Garlic Sauce
 
 - File: `docs/recipes/sauteed-mushrooms-spinach-spicy-garlic.md`
+- Status: **ok**
+- Issues: none flagged
+
+### Steamed Clams with White Wine and Garlic
+
+- File: `docs/recipes/steamed-clams-white-wine-garlic.md`
 - Status: **ok**
 - Issues: none flagged
 
@@ -553,6 +559,12 @@ No missing recipe details have been inferred or invented.
   - olive oil
   - salt
   - black pepper
+
+### White Rice
+
+- File: `docs/recipes/white-rice.md`
+- Status: **ok**
+- Issues: none flagged
 
 ### Zucchini Dolma
 

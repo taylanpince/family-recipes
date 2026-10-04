@@ -1,6 +1,6 @@
 ---
 slug: pappardelle-ragu
-dish_type: carb
+dish_type: protein
 title: Pappardelle Ragù
 cuisine: Italian
 difficulty: medium
@@ -33,7 +33,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Dish type:** carb
+- **Dish type:** protein
 - **Cuisine:** Italian
 - **Difficulty:** medium
 - **Total time:** 180 min

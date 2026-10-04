@@ -1,6 +1,6 @@
 ---
 slug: vine-leaf-dolma
-dish_type: salad
+dish_type: protein
 title: Vine Leaf Dolma
 cuisine: Turkish
 difficulty: medium
@@ -30,7 +30,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Dish type:** salad
+- **Dish type:** protein
 - **Cuisine:** Turkish
 - **Difficulty:** medium
 - **Total time:** 80 min

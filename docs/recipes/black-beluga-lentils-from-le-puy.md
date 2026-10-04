@@ -1,6 +1,6 @@
 ---
 slug: black-beluga-lentils-from-le-puy
-dish_type: salad
+dish_type: protein
 title: Black Beluga Lentils (Le Puy)
 cuisine: French
 difficulty: easy
@@ -29,7 +29,7 @@ ingredients:
 <!-- GENERATED_RECIPE_METADATA_START -->
 ## Recipe details
 
-- **Dish type:** salad
+- **Dish type:** protein
 - **Cuisine:** French
 - **Difficulty:** easy
 - **Total time:** 60 min
