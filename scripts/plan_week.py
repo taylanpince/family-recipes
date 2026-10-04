@@ -288,7 +288,7 @@ def compose_week(
                 night[pos] = pick
                 used[slot].add(pick["slug"])
                 themed_slots.add(slot)
-                labels[day_idx] = t["name"]
+                labels[day_idx] = labels[day_idx] or t["name"]
 
         # 1) weekday-pinned themes (e.g. Fish Tuesday)
         for t in day_themes.get(day_idx, []):
@@ -314,7 +314,7 @@ def compose_week(
                 used[slot].add(pick["slug"])
                 themed_slots.add(slot)
                 quota_remaining[name] -= 1
-                labels[day_idx] = name
+                labels[day_idx] = labels[day_idx] or name
 
         # 3) fill remaining slots from base rotation
         for pos, slot in enumerate(slots):

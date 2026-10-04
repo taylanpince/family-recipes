@@ -45,6 +45,7 @@
 - [Pappardelle Ragù](pappardelle-ragu.md)
 - [Porridge (Kids)](porridge-kids.md)
 - [Potato Salad](potato-salad.md)
+- [Red Cabbage Salad](red-cabbage-salad.md)
 - [Red Lentil Soup](red-lentil-soup.md)
 - [Ribeye Steak on the BBQ](ribeye-steak-bbq.md)
 - [Salmon](salmon.md)
